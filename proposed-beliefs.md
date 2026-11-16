@@ -2014,3 +2014,2260 @@ Static websites offer simpler hosting, fewer security vulnerabilities, and faste
 - Source: entries/2026/06/20/wiki-Web_design.md
 - Source URL: https://en.wikipedia.org/wiki/Web_design
 
+
+---
+
+**Generated:** 2026-11-11
+**Source:** 59 entries from /home/forge/workspace/entries/
+**Model:** openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ab-testing-also-called-bucket-split-run-split-testing
+A/B testing is also called bucket testing, split-run testing, or split testing.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-A2FB_testing.md
+- Source URL: https://en.wikipedia.org/wiki/A%2FB_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ab-testing-compares-single-variable-variants
+A/B testing compares two or more variants of a single variable against a defined measurable outcome.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-A2FB_testing.md
+- Source URL: https://en.wikipedia.org/wiki/A%2FB_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] multivariate-testing-distinct-from-simple-ab
+Multivariate testing tests more than two versions simultaneously or uses more controls and is distinct from simple A/B tests.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-A2FB_testing.md
+- Source URL: https://en.wikipedia.org/wiki/A%2FB_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ab-test-poisson-e-test-c-test
+For Poisson-distributed A/B test data such as transactions per paying user, the E-test is the primary statistical test and the C-test is an alternative.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-A2FB_testing.md
+- Source URL: https://en.wikipedia.org/wiki/A%2FB_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ab-test-multinomial-chi-squared-g-test
+For multinomial A/B test data such as product purchase counts, the chi-squared test is the primary statistical test and the G-test is an alternative.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-A2FB_testing.md
+- Source URL: https://en.wikipedia.org/wiki/A%2FB_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ab-testing-applied-two-sample-hypothesis-testing
+A/B testing is an applied form of two-sample statistical hypothesis testing.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-A2FB_testing.md
+- Source URL: https://en.wikipedia.org/wiki/A%2FB_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ab-testing-feature-flags-reverse-proxies
+A/B tests are implemented in engineering via reverse proxies or feature-flag systems that route a percentage of traffic to a new variant.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-A2FB_testing.md
+- Source URL: https://en.wikipedia.org/wiki/A%2FB_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ab-testing-between-subjects-design
+A/B testing is structurally identical to a between-subjects research design.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-A2FB_testing.md
+- Source URL: https://en.wikipedia.org/wiki/A%2FB_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] above-the-fold-web-visible-viewport-without-scrolling
+In web design, above the fold (also called above the scroll) is the portion of a webpage visible in the browser viewport without scrolling.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Above_the_fold.md
+- Source URL: https://en.wikipedia.org/wiki/Above_the_fold
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] after-the-jump-scroll-click-content
+After the jump is a synonym for content accessible only via clickthrough or scrolling.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Above_the_fold.md
+- Source URL: https://en.wikipedia.org/wiki/Above_the_fold
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fold-extends-search-result-first-page
+The above-the-fold concept extends to search result rankings, where first-page placement is treated as above the fold.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Above_the_fold.md
+- Source URL: https://en.wikipedia.org/wiki/Above_the_fold
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fold-extends-resume-top-third-hot-zone
+The fold concept extends to resume layout, where the top third is called the hot zone.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Above_the_fold.md
+- Source URL: https://en.wikipedia.org/wiki/Above_the_fold
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] apple-js-legal-content-below-fold-2012
+Apple used JavaScript to push legally required content below the fold on its UK site in the 2012 Samsung acknowledgement case.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Above_the_fold.md
+- Source URL: https://en.wikipedia.org/wiki/Above_the_fold
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ad-network-fold-thresholds-blogher-768-foodieblogroll-1000
+Ad networks define their own fold thresholds: BlogHer used 768px and FoodieBlogRoll used 1000px.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Above_the_fold.md
+- Source URL: https://en.wikipedia.org/wiki/Above_the_fold
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-ad-viewability-above-vs-below-fold
+Google research shows that ad placement above versus below the fold has a measurable viewability impact.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Above_the_fold.md
+- Source URL: https://en.wikipedia.org/wiki/Above_the_fold
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] affordance-needs-control-perception
+Gibson's needs-control-perception principle states that an actor's current intentions determine which affordances they perceive.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Affordance.md
+- Source URL: https://en.wikipedia.org/wiki/Affordance
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] affordance-davis-framework-centralizes-power-politics
+Davis's mechanisms and conditions framework centralizes power and politics in affordance analysis.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Affordance.md
+- Source URL: https://en.wikipedia.org/wiki/Affordance
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] affordance-value-rich-not-value-neutral
+Affordances carry notions of benefit or injury relative to the actor and cannot be described in value-neutral physics terms.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Affordance.md
+- Source URL: https://en.wikipedia.org/wiki/Affordance
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] affordance-neural-priming-anderson-2002
+Anderson et al. (2002) found that merely looking at an object primes the brain to perform the action it affords.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Affordance.md
+- Source URL: https://en.wikipedia.org/wiki/Affordance
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] affordance-good-affordance-colloquial-discoverability
+In colloquial usage, good affordance means easy discoverability, distinct from Gibson's and Norman's formal definitions.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Affordance.md
+- Source URL: https://en.wikipedia.org/wiki/Affordance
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] affordance-handle-canonical-perceivable-example
+A door knob or handle is the canonical example of a perceivable affordance.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Affordance.md
+- Source URL: https://en.wikipedia.org/wiki/Affordance
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] breadcrumb-term-derived-hansel-gretel
+The term breadcrumb navigation derives from the Hansel and Gretel fairy tale.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Breadcrumb_navigation.md
+- Source URL: https://en.wikipedia.org/wiki/Breadcrumb_navigation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] breadcrumb-alternative-names-cookie-crumb-navigation-path-ariadne
+Breadcrumb navigation is also called cookie crumb, Navigation Path, and Ariadne's thread in different contexts.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Breadcrumb_navigation.md
+- Source URL: https://en.wikipedia.org/wiki/Breadcrumb_navigation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] breadcrumb-segments-hyperlink-except-current
+In a breadcrumb trail, each segment is a hyperlink except the current page, which is typically rendered as plain text.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Breadcrumb_navigation.md
+- Source URL: https://en.wikipedia.org/wiki/Breadcrumb_navigation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] breadcrumb-file-managers-replace-address-bars
+Desktop file managers often replace or extend the traditional text-based address bar with clickable breadcrumb segments representing directory levels.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Breadcrumb_navigation.md
+- Source URL: https://en.wikipedia.org/wiki/Breadcrumb_navigation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] breadcrumb-supports-drag-and-drop-file-managers
+Breadcrumb segments support drag-and-drop in file managers such as Windows Explorer and KDE Dolphin.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Breadcrumb_navigation.md
+- Source URL: https://en.wikipedia.org/wiki/Breadcrumb_navigation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] breadcrumb-modern-file-managers-support-breadcrumb-location-bars
+Modern file managers including Windows Explorer from Vista onward, Finder, Dolphin, Nautilus, Thunar, Nemo, and Caja support breadcrumb-style location bars.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Breadcrumb_navigation.md
+- Source URL: https://en.wikipedia.org/wiki/Breadcrumb_navigation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] card-sort-knowledge-elicitation-technique
+Card sorting is a knowledge elicitation technique in which participants organize items into categories according to given or self-determined criteria.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Card_sorting.md
+- Source URL: https://en.wikipedia.org/wiki/Card_sorting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] card-sort-reveals-mental-models-not-designer-assumptions
+Card sorting reveals how target users categorize and relate items, exposing their mental models rather than relying on designer assumptions.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Card_sorting.md
+- Source URL: https://en.wikipedia.org/wiki/Card_sorting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] card-sort-most-valuable-no-accepted-taxonomy
+Card sorting is most valuable when no accepted taxonomy exists, when items are difficult to categorize cleanly, or when audience segments disagree on groupings.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Card_sorting.md
+- Source URL: https://en.wikipedia.org/wiki/Card_sorting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] card-sort-can-produce-folksonomies
+Card sorting can produce folksonomies, which are user-generated taxonomies.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Card_sorting.md
+- Source URL: https://en.wikipedia.org/wiki/Card_sorting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] card-sort-remote-trades-qualitative-insight-for-larger-sample
+Remote or online card sorting reaches larger participant pools at lower cost with built-in analysis but sacrifices qualitative insights from in-person interaction.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Card_sorting.md
+- Source URL: https://en.wikipedia.org/wiki/Card_sorting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] card-sort-jaccard-distance
+Jaccard distance measures the proportion of differing card pairings between two sorts relative to total possible pairings.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Card_sorting.md
+- Source URL: https://en.wikipedia.org/wiki/Card_sorting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] card-sort-orthogonality-minimum-spanning-tree
+Orthogonality measures distinctness across a set of card sorts using the minimum spanning tree of pairwise edit distances.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Card_sorting.md
+- Source URL: https://en.wikipedia.org/wiki/Card_sorting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] card-sort-multidimensional-scaling-scatter
+Multidimensional scaling is used on card sort similarity or dissimilarity matrices to produce scatter plot visualizations.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Card_sorting.md
+- Source URL: https://en.wikipedia.org/wiki/Card_sorting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] carousel-etymology-french-little-battle
+The term carousel derives from French carrousel, meaning 'little battle', referring to 17th-century equestrian tournaments.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Carousel.md
+- Source URL: https://en.wikipedia.org/wiki/Carousel
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] carousel-origin-training-device-ring-jousting
+Late 17th-century carousels used wooden horses suspended from a spinning wheel powered by a draft horse walking the perimeter to let tournament participants practice ring jousting without tiring their horses.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Carousel.md
+- Source URL: https://en.wikipedia.org/wiki/Carousel
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] carousel-material-evolution-wood-aluminum-fiberglass
+Carousel construction materials evolved from hand-carved wood to aluminum castings during the Great Depression era and later to fiberglass castings in the later 20th century.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Carousel.md
+- Source URL: https://en.wikipedia.org/wiki/Carousel
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] carousel-platform-dobby-mid19
+The platform carousel, called a dobby, was a mid-19th-century innovation with animal figures fixed to a rotating circular floor around a central pole and initially operated manually or by ponies.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Carousel.md
+- Source URL: https://en.wikipedia.org/wiki/Carousel
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] carousel-brass-ring-dispensers-outer-row
+Brass ring dispensers on carousels encouraged riders to sit on the outermost row and are now very rare.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Carousel.md
+- Source URL: https://en.wikipedia.org/wiki/Carousel
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] carousel-tallest-columbia-101-feet
+Carousel Columbia at California's Great America is the tallest carousel at 101 feet (31 m).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Carousel.md
+- Source URL: https://en.wikipedia.org/wiki/Carousel
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cognitive-load-developed-sweller-late-1980s
+Cognitive load theory was developed by John Sweller in the late 1980s from research on problem solving.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Cognitive_load.md
+- Source URL: https://en.wikipedia.org/wiki/Cognitive_load
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cognitive-load-completion-problem-effect-paas-1992
+The completion-problem effect (Paas, 1992) shows that partially completed problems reduce extraneous load while still requiring active processing.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Cognitive_load.md
+- Source URL: https://en.wikipedia.org/wiki/Cognitive_load
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cognitive-load-relative-condition-efficiency-formula
+Relative condition efficiency (Paas and Van Merriënboer, 1993) compares instructional conditions with the formula (standardized performance - standardized mental effort) / sqrt(2).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Cognitive_load.md
+- Source URL: https://en.wikipedia.org/wiki/Cognitive_load
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cognitive-load-task-invoked-pupillary-response
+Task-invoked pupillary response correlates reliably with working memory load and is considered a sensitive physiological measure.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Cognitive_load.md
+- Source URL: https://en.wikipedia.org/wiki/Cognitive_load
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cognitive-load-heavy-load-increases-errors-stereotyping
+Heavy cognitive load increases errors, stereotyping via automatic schema activation, fundamental attribution error, and impaired balance in elderly populations.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Cognitive_load.md
+- Source URL: https://en.wikipedia.org/wiki/Cognitive_load
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cognitive-load-desirable-difficulty-ai-deskilling
+Desirable difficulty is productive struggle that exercises working memory and long-term memory, and AI tools that remove this struggle may harm learning and skill retention.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Cognitive_load.md
+- Source URL: https://en.wikipedia.org/wiki/Cognitive_load
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cognitive-walkthrough-developed-wharton-rieman-lewis-polson
+The cognitive walkthrough method was developed by Wharton, Rieman, Lewis, and Polson and published in Jakob Nielsen's 'Usability Inspection Methods' (1994).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Cognitive_walkthrough.md
+- Source URL: https://en.wikipedia.org/wiki/Cognitive_walkthrough
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cognitive-walkthrough-cognitive-jogthrough-rowley-rhoades-1992
+The Cognitive Jogthrough (Rowley and Rhoades, 1992) was an earlier simplified variant that influenced the streamlined cognitive walkthrough approach.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Cognitive_walkthrough.md
+- Source URL: https://en.wikipedia.org/wiki/Cognitive_walkthrough
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cognitive-walkthrough-ground-rules-no-designing-defending-debating
+Cognitive walkthrough sessions have ground rules that prohibit designing during the session, defending designs, and debating cognitive theory.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Cognitive_walkthrough.md
+- Source URL: https://en.wikipedia.org/wiki/Cognitive_walkthrough
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cognitive-walkthrough-extended-for-web-blackmon
+Blackmon et al. (2002, 2003) adapted the cognitive walkthrough method specifically for web usability evaluation.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Cognitive_walkthrough.md
+- Source URL: https://en.wikipedia.org/wiki/Cognitive_walkthrough
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cognitive-walkthrough-originally-walk-up-and-use
+The cognitive walkthrough was originally designed for walk-up-and-use systems such as kiosks, ATMs, and museum exhibits but has been applied to complex software.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Cognitive_walkthrough.md
+- Source URL: https://en.wikipedia.org/wiki/Cognitive_walkthrough
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cognitive-walkthrough-damaged-merchandise-gray-salzman-1998
+Gray and Salzman's 'Damaged Merchandise' (1998) challenged the validity of studies comparing usability inspection methods.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Cognitive_walkthrough.md
+- Source URL: https://en.wikipedia.org/wiki/Cognitive_walkthrough
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] color-theory-daguilon-ryb-1613
+François d'Aguilon introduced red, yellow, and blue as the painter's primaries in 1613.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Color_theory.md
+- Source URL: https://en.wikipedia.org/wiki/Color_theory
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] color-theory-cmy-absorbs-retinal-primary
+In subtractive CMY color mixing, cyan absorbs red, magenta absorbs green, and yellow absorbs blue-violet.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Color_theory.md
+- Source URL: https://en.wikipedia.org/wiki/Color_theory
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] color-theory-chevreul-three-contrast-types
+Chevreul's law of color contrast identifies three types of contrast: simultaneous, successive, and mixed.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Color_theory.md
+- Source URL: https://en.wikipedia.org/wiki/Color_theory
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] color-theory-munsell-hue-value-chroma
+The Munsell color system organizes colors by hue, value (lightness), and chroma (saturation).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Color_theory.md
+- Source URL: https://en.wikipedia.org/wiki/Color_theory
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] color-theory-humans-perceive-2-3-million-colors
+Humans can distinguish approximately 2.3 million colors.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Color_theory.md
+- Source URL: https://en.wikipedia.org/wiki/Color_theory
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] color-theory-newton-geometric-rule-saturation
+Newton's geometric rule predicts that colors closer together on the hue circle produce more saturated mixtures, with mixture saturation predicted by the straight line between the two colors on the wheel.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Color_theory.md
+- Source URL: https://en.wikipedia.org/wiki/Color_theory
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] design-system-w3c-design-tokens-community-group
+The W3C Design Tokens Community Group is working on open standards for design tokens.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Design_system.md
+- Source URL: https://en.wikipedia.org/wiki/Design_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] design-system-yahoo-design-pattern-library-2006
+Yahoo! Design Pattern Library (2006) and the YUI Library reopened mainstream interest in UI pattern languages.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Design_system.md
+- Source URL: https://en.wikipedia.org/wiki/Design_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] design-system-material-design-2014-first-design-language
+Google Material Design (2014) was the first system called a design language by its creator, having previously been called Holo Theme.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Design_system.md
+- Source URL: https://en.wikipedia.org/wiki/Design_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] design-system-six-advantages
+Design systems provide six advantages: streamlined workflows, a unified language across teams, faster builds via reuse, cohesive user experience, improved maintenance and scalability, and stronger product focus.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Design_system.md
+- Source URL: https://en.wikipedia.org/wiki/Design_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] design-system-bem-methodology-2010s
+BEM is a systematic CSS naming approach from the 2010s that addressed large-scale web project challenges alongside design systems.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Design_system.md
+- Source URL: https://en.wikipedia.org/wiki/Design_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] design-system-risk-poor-maintenance-reduces-efficiency
+Poorly implemented or maintained design systems can become disorganized and reduce efficiency rather than improve it.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Design_system.md
+- Source URL: https://en.wikipedia.org/wiki/Design_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] design-thinking-five-phase-plattner-meinel-leifer
+The Plattner/Meinel/Leifer design thinking model has five phases: (re)define the problem, needfinding and benchmarking, ideating, building, and testing.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Design_thinking.md
+- Source URL: https://en.wikipedia.org/wiki/Design_thinking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] design-thinking-divergent-convergent-ideation
+Design thinking ideation alternates between divergent thinking, which expands possibilities, and convergent thinking, which narrows to select the best option.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Design_thinking.md
+- Source URL: https://en.wikipedia.org/wiki/Design_thinking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] design-thinking-empathy-feeds-ux-research
+Design thinking's empathy phase feeds UX research methods including personas, contextual inquiry, and user interviews.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Design_thinking.md
+- Source URL: https://en.wikipedia.org/wiki/Design_thinking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] arnold-four-creative-thinking-areas
+John E. Arnold's four areas of creative thinking are novel functionality, higher performance, lower production costs, and increased salability.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Design_thinking.md
+- Source URL: https://en.wikipedia.org/wiki/Design_thinking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] design-thinking-prototyping-artifacts-feedback
+Design thinking prototyping turns ideas into concrete artifacts, from rough mock-ups to detailed prototypes, to gather feedback, identify strengths and weaknesses, and prompt new ideas quickly.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Design_thinking.md
+- Source URL: https://en.wikipedia.org/wiki/Design_thinking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rittel-second-generation-participatory-design
+Rittel's second generation design methods emphasize stakeholder participation, connecting to co-design and collaborative UX practices.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Design_thinking.md
+- Source URL: https://en.wikipedia.org/wiki/Design_thinking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] design-thinking-earliest-writings-arnold-archer
+John E. Arnold's Creative Engineering (1959) and L. Bruce Archer's Systematic Method for Designers (1963-64) were among the earliest writings on design thinking.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Design_thinking.md
+- Source URL: https://en.wikipedia.org/wiki/Design_thinking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] don-norman-born-1935-cognitive-scientist
+Don Norman (b. 1935) is an American cognitive scientist, usability engineer, and author.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Don_Norman.md
+- Source URL: https://en.wikipedia.org/wiki/Don_Norman
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] don-norman-founded-design-lab-ucsd
+Don Norman founded The Design Lab at UC San Diego.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Don_Norman.md
+- Source URL: https://en.wikipedia.org/wiki/Don_Norman
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] norman-shallice-model-supervisory-attentional-system
+The Norman-Shallice model is a framework of attentional control of executive functioning that includes the supervisory attentional system.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Don_Norman.md
+- Source URL: https://en.wikipedia.org/wiki/Don_Norman
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] jnd-org-named-after-just-noticeable-difference
+Norman named his website jnd.org after the psychophysics concept of just-noticeable difference (JND).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Don_Norman.md
+- Source URL: https://en.wikipedia.org/wiki/Don_Norman
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] norman-benjamin-franklin-medal-2006-nae-2011
+Norman received the Benjamin Franklin Medal in Computer and Cognitive Science in 2006 and was elected to the National Academy of Engineering in 2011.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Don_Norman.md
+- Source URL: https://en.wikipedia.org/wiki/Don_Norman
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] norman-academic-background-engineering-psychology
+Norman's academic background includes BS/MS degrees in electrical engineering from MIT/UPenn and a PhD in psychology from UPenn.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Don_Norman.md
+- Source URL: https://en.wikipedia.org/wiki/Don_Norman
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] norman-seven-stages-of-action-model
+Norman's seven stages of action model describes how users form goals, execute actions, and evaluate results.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Don_Norman.md
+- Source URL: https://en.wikipedia.org/wiki/Don_Norman
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dropdown-activation-click-or-hover
+A drop-down list can be activated by clicking or hovering, depending on implementation.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Drop-down_list.md
+- Source URL: https://en.wikipedia.org/wiki/Drop-down_list
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gtk4-dropdown-widget-class
+GTK 4 implements drop-down lists using the Gtk.DropDown widget class.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Drop-down_list.md
+- Source URL: https://en.wikipedia.org/wiki/Drop-down_list
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] macos-popup-vs-pulldown-command-distinction
+On macOS, pop-up menus are used for selecting options, while pull-down menus are used for issuing commands or multi-select scenarios.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Drop-down_list.md
+- Source URL: https://en.wikipedia.org/wiki/Drop-down_list
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] listbox-displays-multiple-items-without-collapsing
+A list box is a related control that displays multiple items simultaneously without collapsing; a drop-down is the space-efficient alternative.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Drop-down_list.md
+- Source URL: https://en.wikipedia.org/wiki/Drop-down_list
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dropdown-widget-taxonomy-command-input
+In widget taxonomy, a drop-down list is classified as a command input control alongside buttons, context menus, and hamburger menus.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Drop-down_list.md
+- Source URL: https://en.wikipedia.org/wiki/Drop-down_list
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eye-tracking-scanpath-definition
+A scanpath is the complete sequence of fixations and saccades a user produces while viewing a stimulus, used to analyze cognitive intent, interest, and salience.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Eye_tracking.md
+- Source URL: https://en.wikipedia.org/wiki/Eye_tracking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eye-tracking-aois-definition
+Areas of Interest (AOIs) are defined regions of a stimulus used to quantify where and how long users looked; they can be manually coded or AI-identified.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Eye_tracking.md
+- Source URL: https://en.wikipedia.org/wiki/Eye_tracking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eye-tracking-calibration-required-every-session
+Eye tracking calibration is required before every session; poor calibration produces invalid data.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Eye_tracking.md
+- Source URL: https://en.wikipedia.org/wiki/Eye_tracking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eye-tracking-remote-vs-head-mounted
+Head-mounted eye trackers measure eye-in-head angles and require head tracking to derive gaze direction, while remote table-mounted trackers measure gaze angles directly but typically require head stabilization.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Eye_tracking.md
+- Source URL: https://en.wikipedia.org/wiki/Eye_tracking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eog-eye-tracking-characteristics
+Electrooculogram (EOG) eye tracking works with eyes closed, is low power and wearable, and works in any lighting, but has poor gaze-direction accuracy and signal drift.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Eye_tracking.md
+- Source URL: https://en.wikipedia.org/wiki/Eye_tracking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] visual-attention-leads-gaze-100-250ms
+Visual attention leads the eye by 100-250 ms; attention shifts before gaze follows.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Eye_tracking.md
+- Source URL: https://en.wikipedia.org/wiki/Eye_tracking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eye-tracking-smooth-pursuit-definition
+Smooth pursuit is eye movement that follows a moving object, distinct from saccade-fixation patterns.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Eye_tracking.md
+- Source URL: https://en.wikipedia.org/wiki/Eye_tracking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eye-tracking-reading-fixations-saccades-regressions
+Reading is not smooth; it consists of fixations and saccades, with some words skipped and occasional regressions to earlier words.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Eye_tracking.md
+- Source URL: https://en.wikipedia.org/wiki/Eye_tracking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fitts-index-of-difficulty-bits
+The Index of Difficulty (ID) quantifies pointing task difficulty in bits using the ratio of distance D to target width W; higher ID means harder targeting tasks.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Fitts27s_law.md
+- Source URL: https://en.wikipedia.org/wiki/Fitts%27s_law
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fitts-welford-two-factor-model
+Welford's model is a two-factor Fitts's law variant that separates distance and target width into independent terms (MT = a + b1*log2(D) + b2*log2(W)), providing better predictive power especially when control-display gain varies.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Fitts27s_law.md
+- Source URL: https://en.wikipedia.org/wiki/Fitts%27s_law
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fitts-temporal-pointing-extension
+Temporal pointing extends Fitts's law to time-domain targets such as blinking or moving targets, replacing spatial distance D and width W with temporal distance Dt and temporal width Wt.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Fitts27s_law.md
+- Source URL: https://en.wikipedia.org/wiki/Fitts%27s_law
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fitts-regression-parameters-a-b
+In Fitts's law regression MT = a + b*ID, parameter a represents a startup delay (y-intercept) and b represents movement speed scaling (slope); lower b indicates a faster input device.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Fitts27s_law.md
+- Source URL: https://en.wikipedia.org/wiki/Fitts%27s_law
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fitts-2d-target-width-methods
+Methods for computing 2D target width include status quo horizontal width only, sum model (W = height + width), area model (W = height x width), smaller-of model (W = min(height, width)), and W-model (effective width in direction of movement).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Fitts27s_law.md
+- Source URL: https://en.wikipedia.org/wiki/Fitts%27s_law
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fitts-law-ratio-limitation
+Fitts's law predictive power degrades when both distance and target width vary widely, because ID depends only on their ratio, implying arbitrary rescaling would not affect movement time, which is physically impossible.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Fitts27s_law.md
+- Source URL: https://en.wikipedia.org/wiki/Fitts%27s_law
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] accot-zhai-steering-law-derives-from-fitts
+The Accot-Zhai Steering Law is derived from Fitts's law for constrained path-following tasks such as navigating hierarchical menus or tunnel-like widgets.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Fitts27s_law.md
+- Source URL: https://en.wikipedia.org/wiki/Fitts%27s_law
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fitts-welford-shannon-angle-parameter-k
+The Welford-Shannon Fitts's law variant with angle parameter k uses MT = a + b*log2((D + W)/W^k) and reduces to the Shannon form when k = 1; nested models can be compared using an F-test.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Fitts27s_law.md
+- Source URL: https://en.wikipedia.org/wiki/Fitts%27s_law
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] flat-design-emphasizes-simple-elements-typography-solid-colors
+Flat design emphasizes simple elements, clean typography, and solid colors in graphical user interfaces.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Flat_design.md
+- Source URL: https://en.wikipedia.org/wiki/Flat_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] flat-design-minimal-elements-enable-faster-page-downloads
+Flat design's minimal design elements enable faster page downloads.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Flat_design.md
+- Source URL: https://en.wikipedia.org/wiki/Flat_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] young-adults-navigate-flat-designs-faster-but-still-struggle-understanding
+Young adults prefer and navigate flat designs faster but still struggle with understanding the interface.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Flat_design.md
+- Source URL: https://en.wikipedia.org/wiki/Flat_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] material-design-uses-card-based-layouts
+Google Material Design uses card-based layouts based on an index-card metaphor.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Flat_design.md
+- Source URL: https://en.wikipedia.org/wiki/Flat_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] microsoft-metro-uses-segoe-sans-serif-typography-and-grid-menus
+Microsoft Metro and Fluent Design use Segoe sans-serif typography and grid-like menu patterns.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Flat_design.md
+- Source URL: https://en.wikipedia.org/wiki/Flat_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] neumorphism-blends-flat-and-skeuomorphic-with-soft-shadows
+Neumorphism blends flat and skeuomorphic approaches using soft shadows and subtle depth.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Flat_design.md
+- Source URL: https://en.wikipedia.org/wiki/Flat_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] corporate-memphis-is-flat-illustration-style-with-geometric-human-figures
+Corporate Memphis is a flat illustration style using geometric human figures that became widespread in tech branding.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Flat_design.md
+- Source URL: https://en.wikipedia.org/wiki/Flat_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] frutiger-aero-pre-flat-glossy-nature-inspired-design-era
+Frutiger Aero is a pre-flat glossy and nature-inspired design era that flat design displaced.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Flat_design.md
+- Source URL: https://en.wikipedia.org/wiki/Flat_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gestalt-psychology-originated-early-20th-century-germany-austria
+Gestalt psychology is a theory of perception originating in early 20th-century Germany and Austria.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Gestalt_psychology.md
+- Source URL: https://en.wikipedia.org/wiki/Gestalt_psychology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gestalt-means-form-pattern-configuration
+The German word Gestalt means form, pattern, or configuration.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Gestalt_psychology.md
+- Source URL: https://en.wikipedia.org/wiki/Gestalt_psychology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gestalt-principle-of-totality-requires-global-consideration
+Gestalt's principle of totality requires conscious experience to be considered globally, with each component in dynamic relationship to the whole.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Gestalt_psychology.md
+- Source URL: https://en.wikipedia.org/wiki/Gestalt_psychology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] psychophysical-isomorphism-correlates-conscious-experience-and-cerebral-activity
+Psychophysical isomorphism hypothesizes a correlation between conscious experience and cerebral activity.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Gestalt_psychology.md
+- Source URL: https://en.wikipedia.org/wiki/Gestalt_psychology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gestalt-four-key-properties-emergence-reification-multistability-invariance
+Gestalt systems have four key properties: emergence, reification, multistability, and invariance.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Gestalt_psychology.md
+- Source URL: https://en.wikipedia.org/wiki/Gestalt_psychology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gestalt-multistability-ambiguous-images-alternate-interpretations
+Gestalt multistability describes ambiguous images that alternate between two or more interpretations, such as the Necker cube and Rubin's vase.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Gestalt_psychology.md
+- Source URL: https://en.wikipedia.org/wiki/Gestalt_psychology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gestalt-invariance-recognition-persists-across-transformations
+Gestalt invariance is the recognition of objects regardless of rotation, scale, translation, elastic deformation, lighting, or graphic style.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Gestalt_psychology.md
+- Source URL: https://en.wikipedia.org/wiki/Gestalt_psychology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kohler-1917-insight-learning-chimpanzees
+Köhler's 1917 insight learning experiments demonstrated that chimpanzees learn by sudden insight into problem structure.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Gestalt_psychology.md
+- Source URL: https://en.wikipedia.org/wiki/Gestalt_psychology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] grid-lines-can-be-angular-and-curved
+Grid lines in graphic design can be vertical, horizontal, angular, or curved, not only horizontal and vertical.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Grid_graphic_design.md
+- Source URL: https://en.wikipedia.org/wiki/Grid_(graphic_design)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] css-grid-layout-module-level-1-defines-native-two-dimensional-web-grid
+The W3C CSS Grid Layout Module Level 1 defines a native two-dimensional grid system for web layout.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Grid_graphic_design.md
+- Source URL: https://en.wikipedia.org/wiki/Grid_(graphic_design)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bootstrap-and-zurb-foundation-provide-built-in-grid-frameworks
+Bootstrap and ZURB Foundation are CSS frameworks with built-in grid systems.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Grid_graphic_design.md
+- Source URL: https://en.wikipedia.org/wiki/Grid_(graphic_design)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] grid-instruction-standard-in-1970s-design-curricula
+Grid instruction became standard in design curricula across Europe, North America, and Latin America in the 1970s.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Grid_graphic_design.md
+- Source URL: https://en.wikipedia.org/wiki/Grid_(graphic_design)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] le-corbusier-modulor-is-mathematical-proportion-system
+Le Corbusier's Modulor represents a mathematical approach to grid-based proportion.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Grid_graphic_design.md
+- Source URL: https://en.wikipedia.org/wiki/Grid_(graphic_design)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] grids-applied-within-images-guide-proportional-relationships
+Grids can be applied within images to guide proportional relationships using angular lines.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Grid_graphic_design.md
+- Source URL: https://en.wikipedia.org/wiki/Grid_(graphic_design)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] grid-content-can-align-flush-left-along-grid-edges
+Content can align to grid lines in various ways, such as flush left along grid edges.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Grid_graphic_design.md
+- Source URL: https://en.wikipedia.org/wiki/Grid_(graphic_design)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] desktop-publishing-software-offers-built-in-grid-layout
+Most professional desktop publishing and office tools offer grid layout as a built-in option.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Grid_graphic_design.md
+- Source URL: https://en.wikipedia.org/wiki/Grid_(graphic_design)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hamburger-button-toggles-navigation-menu-between-collapsed-and-expanded
+The hamburger button toggles a navigation menu or menu panel between collapsed and expanded states.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Hamburger_button.md
+- Source URL: https://en.wikipedia.org/wiki/Hamburger_button
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hamburger-button-name-from-resemblance-to-hamburger-sandwich
+The hamburger button is named after its unintentional resemblance to a hamburger sandwich and is designed to resemble lines of text in a small printed menu.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Hamburger_button.md
+- Source URL: https://en.wikipedia.org/wiki/Hamburger_button
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kebab-button-reduces-screen-real-estate-consumption-versus-hamburger
+The kebab button, using three vertically stacked dots, reduces screen real-estate consumption further compared with the hamburger button.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Hamburger_button.md
+- Source URL: https://en.wikipedia.org/wiki/Hamburger_button
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] waffle-button-used-in-microsoft-office-365-and-google-apps
+The waffle button, consisting of three rows of three squares, is used in Microsoft Office 365 and Google apps to pop up an icon array.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Hamburger_button.md
+- Source URL: https://en.wikipedia.org/wiki/Hamburger_button
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hamburger-button-windows-history-1.0-removed-2.0-returned-10
+The hamburger button was present in Windows 1.0 in 1985, removed in Windows 2.0, and returned in the Windows 10 Anniversary Update in 2016.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Hamburger_button.md
+- Source URL: https://en.wikipedia.org/wiki/Hamburger_button
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ellipsis-indicates-more-options-subset-vs-hamburger-all-hidden
+An ellipsis icon indicates more options for a subset, whereas the hamburger icon signifies all hidden options.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Hamburger_button.md
+- Source URL: https://en.wikipedia.org/wiki/Hamburger_button
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] w3schools-documents-css-hamburger-menu-icon
+W3Schools documents how to create a hamburger menu icon with CSS using three horizontal bars.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Hamburger_button.md
+- Source URL: https://en.wikipedia.org/wiki/Hamburger_button
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] heuristic-evaluation-is-usability-inspection-method
+Heuristic evaluation is a usability inspection method in which evaluators judge an interface against recognized usability principles.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Heuristic_evaluation.md
+- Source URL: https://en.wikipedia.org/wiki/Heuristic_evaluation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] multiple-heuristic-frameworks-exist-nielsen-gerhardt-powals-shneiderman-weinschenk-barker
+Multiple heuristic frameworks exist, including Nielsen, Gerhardt-Powals, Shneiderman, and Weinschenk and Barker.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Heuristic_evaluation.md
+- Source URL: https://en.wikipedia.org/wiki/Heuristic_evaluation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] heuristic-eval-observer-reduces-workload-increases-overhead
+Adding an observer to heuristic evaluation reduces evaluator workload by allowing verbal analysis instead of written reports but increases overhead cost.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Heuristic_evaluation.md
+- Source URL: https://en.wikipedia.org/wiki/Heuristic_evaluation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] heuristic-evaluation-is-fast-inexpensive-and-requires-no-user-recruitment
+Heuristic evaluation is fast, inexpensive, and requires no user recruitment.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Heuristic_evaluation.md
+- Source URL: https://en.wikipedia.org/wiki/Heuristic_evaluation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] heuristic-evaluation-results-influenced-by-evaluator-expertise
+Heuristic evaluation results are highly influenced by evaluator expertise.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Heuristic_evaluation.md
+- Source URL: https://en.wikipedia.org/wiki/Heuristic_evaluation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] heuristic-evaluation-uses-typical-user-task-scenarios
+Heuristic evaluation is often conducted within typical user task scenarios to assess interface compatibility with user needs.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Heuristic_evaluation.md
+- Source URL: https://en.wikipedia.org/wiki/Heuristic_evaluation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] general-heuristic-sets-may-miss-domain-and-culture-specific-issues
+General heuristic sets may miss domain-specific or culture-specific usability issues, and specialized heuristic sets can address this gap.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Heuristic_evaluation.md
+- Source URL: https://en.wikipedia.org/wiki/Heuristic_evaluation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gerhardt-powals-10-cognitive-engineering-principles-reduce-cognitive-load
+Gerhardt-Powals' 10 cognitive engineering principles focus on reducing cognitive load.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Heuristic_evaluation.md
+- Source URL: https://en.wikipedia.org/wiki/Heuristic_evaluation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hicks-law-binary-subdivision-explanation
+The logarithmic form of Hick's law arises because people categorize choices and eliminate roughly half the remaining options at each cognitive step, analogous to binary search, rather than evaluating each option sequentially.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Hick27s_law.md
+- Source URL: https://en.wikipedia.org/wiki/Hick%27s_law
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hicks-law-grounded-in-shannon-information-theory
+Hick's law is grounded in Shannon's information theory, treating the choice set as a source of information measured in bits.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Hick27s_law.md
+- Source URL: https://en.wikipedia.org/wiki/Hick%27s_law
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hicks-law-exceptions-saccadic-eye-movements-and-verbal-responses
+Hick's law does not apply to saccadic eye movements (which can show an anti-Hick's effect) or familiar verbal responses (which show no significant increase with more options).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Hick27s_law.md
+- Source URL: https://en.wikipedia.org/wiki/Hick%27s_law
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] roth-1964-iq-processing-speed-variant-formula
+The Roth (1964) IQ/processing speed variant of Hick's law is Reaction Time = Movement Time + log₂(n) / Processing Speed.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Hick27s_law.md
+- Source URL: https://en.wikipedia.org/wiki/Hick%27s_law
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hicks-law-rate-of-gain-of-information-definition
+The rate of gain of information is the amount of time taken to process a certain number of bits, essentially a measure of cognitive information processing speed.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Hick27s_law.md
+- Source URL: https://en.wikipedia.org/wiki/Hick%27s_law
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hci-acm-definition
+HCI is defined by the ACM as a discipline concerned with the design, evaluation, and implementation of interactive computing systems for human use and with the study of major phenomena surrounding them.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-HumanE28093computer_interaction.md
+- Source URL: https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hci-loop-of-interaction-encompasses-visual-audio-sensor-feedback
+The loop of interaction in HCI encompasses visual, audio, sensor-based, and feedback channels.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-HumanE28093computer_interaction.md
+- Source URL: https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hci-semantic-gap-mismatch-between-human-and-computer-understanding
+The semantic gap in HCI is the mismatch between human and computer understanding of mutual behaviors, addressable through ontology-based approaches.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-HumanE28093computer_interaction.md
+- Source URL: https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hci-dual-side-knowledge-machine-and-human
+HCI draws from the machine side (graphics, OS, programming languages) and the human side (communication theory, cognitive psychology, linguistics, social sciences, human factors).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-HumanE28093computer_interaction.md
+- Source URL: https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hci-four-interface-modalities-gui-cli-vui-multimodal
+HCI interface modalities include GUI (graphical), CLI (command-line), VUI (voice), and multimodal interfaces, each serving different interaction paradigms.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-HumanE28093computer_interaction.md
+- Source URL: https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hci-accessibility-universal-design-benefits-all-users
+Accessibility design in HCI benefits all users, not only those with disabilities.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-HumanE28093computer_interaction.md
+- Source URL: https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] infinite-scrolling-dynamically-appends-content-as-user-scrolls
+Infinite scrolling (endless scrolling) is a web design pattern where new content is dynamically appended to the bottom of a page as the user scrolls, creating the appearance of a never-ending page.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Infinite_scrolling.md
+- Source URL: https://en.wikipedia.org/wiki/Infinite_scrolling
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] infinite-scrolling-contrasts-with-pagination
+Infinite scrolling contrasts with pagination, which divides content into discrete, numbered pages with explicit navigation.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Infinite_scrolling.md
+- Source URL: https://en.wikipedia.org/wiki/Infinite_scrolling
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] infinite-scroll-implementation-uses-scroll-listeners-or-intersection-observer
+Infinite scroll implementation typically uses scroll event listeners or the Intersection Observer API to detect when the user nears the bottom of content.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Infinite_scrolling.md
+- Source URL: https://en.wikipedia.org/wiki/Infinite_scrolling
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] infinite-scroll-implementation-uses-ajax-fetch-and-dom-appending
+Infinite scroll implementation typically uses dynamic content fetching (AJAX/fetch calls) to load the next batch of items and DOM appending to insert new content below existing items.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Infinite_scrolling.md
+- Source URL: https://en.wikipedia.org/wiki/Infinite_scrolling
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] infinite-scroll-used-by-social-media-feeds
+Infinite scroll is widely used in social media feeds such as Instagram, TikTok, YouTube Shorts, and Meta Reels, and in search results.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Infinite_scrolling.md
+- Source URL: https://en.wikipedia.org/wiki/Infinite_scrolling
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] information-architecture-core-definition-organization-labeling-search-navigation
+Information architecture is the combination of organization, labeling, search, and navigation systems within websites and intranets.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Information_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Information_architecture
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] information-architecture-scope-varies-by-discipline
+IA scope varies by discipline: in UX it emphasizes user experience, while in systems design it may be limited strictly to information science applied to web design (classification, retrieval).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Information_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Information_architecture
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] information-architecture-subset-of-data-architecture
+Information architecture can be viewed as a subset of data architecture, constructing, designing, and arranging usable data in the fashion most useful to users.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Information_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Information_architecture
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] information-architecture-enterprise-architecture-component
+In systems design, IA is the enterprise architecture component dealing with information structure within an enterprise.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Information_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Information_architecture
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] information-architecture-draws-on-wayfinding-principles
+IA applies wayfinding principles from the physical world to digital spaces.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Information_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Information_architecture
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] interaction-design-synthesizes-possibilities-rather-than-analyzes-existing-states
+Interaction design synthesizes possibilities rather than analyzing existing states, distinguishing it from science and engineering fields that analyze what exists.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Interaction_design.md
+- Source URL: https://en.wikipedia.org/wiki/Interaction_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] personas-are-archetypes-describing-user-goals-and-behavior-patterns
+Personas are archetypes describing user goals and observed behavior patterns, encapsulating behavioral data via storytelling.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Interaction_design.md
+- Source URL: https://en.wikipedia.org/wiki/Interaction_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cognitive-dimensions-framework-evaluates-design-quality-via-vocabulary
+The cognitive dimensions framework is a lightweight vocabulary for evaluating design quality, including consistency, error-proneness, hard mental operations, viscosity, and premature commitment.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Interaction_design.md
+- Source URL: https://en.wikipedia.org/wiki/Interaction_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] goal-directed-design-satisfies-user-needs-rather-than-provider-interests
+Alan Cooper's goal-directed design approach satisfies user needs and desires rather than serving provider interests.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Interaction_design.md
+- Source URL: https://en.wikipedia.org/wiki/Interaction_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ixd-manages-design-complexity
+Interaction designers manage design complexity involving many possible users, contexts, and software states.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Interaction_design.md
+- Source URL: https://en.wikipedia.org/wiki/Interaction_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] jakob-nielsen-born-1957-copenhagen
+Jakob Nielsen was born in 1957 in Copenhagen.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Jakob_Nielsen_usability_consultant.md
+- Source URL: https://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] jakob-nielsen-phd-hci-technical-university-denmark
+Jakob Nielsen holds a PhD in human–computer interaction from the Technical University of Denmark.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Jakob_Nielsen_usability_consultant.md
+- Source URL: https://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] nielsen-alertbox-fortnightly-useit-1996
+Nielsen's Alertbox was a fortnightly usability column published from 1996 on useit.com and later migrated to the NNG website.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Jakob_Nielsen_usability_consultant.md
+- Source URL: https://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] nielsen-ux-tigers-founded-2023
+Nielsen founded UX Tigers in 2023 as a platform focusing on the intersection of usability and AI.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Jakob_Nielsen_usability_consultant.md
+- Source URL: https://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] nielsen-sigchi-lifetime-practice-award-2013
+Nielsen received the SIGCHI Lifetime Practice Award in 2013.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Jakob_Nielsen_usability_consultant.md
+- Source URL: https://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] material-components-android-1-12-0-may-2024-apache
+Material Components for Android had latest stable version 1.12.0 in May 2024 under the Apache-2.0 license.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Material_Design.md
+- Source URL: https://en.wikipedia.org/wiki/Material_Design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] material-components-flutter-bsd-3-clause
+Material Components for Flutter is licensed under BSD-3-Clause.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Material_Design.md
+- Source URL: https://en.wikipedia.org/wiki/Material_Design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] material-web-canonical-web-implementation
+The canonical open-source web implementation of Material Design is called Material Web.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Material_Design.md
+- Source URL: https://en.wikipedia.org/wiki/Material_Design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] material-3-expressive-announced-may-2025-android16-wearos6
+Material 3 Expressive was announced in May 2025 for Android 16 and Wear OS 6.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Material_Design.md
+- Source URL: https://en.wikipedia.org/wiki/Material_Design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] material-design-cards-ui-expanded-from-google-now
+Material Design's Cards UI pattern expanded from the cards interface that debuted in Google Now.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Material_Design.md
+- Source URL: https://en.wikipedia.org/wiki/Material_Design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] material-design-apis-for-third-party-developers
+Material Design provides APIs for third-party developers, not just Google's own products.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Material_Design.md
+- Source URL: https://en.wikipedia.org/wiki/Material_Design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mental-model-represents-one-possibility
+Each mental model represents one possibility — what is common to all the ways that possibility could occur.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Mental_model.md
+- Source URL: https://en.wikipedia.org/wiki/Mental_model
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mental-model-validation-via-counterexample
+People judge a conclusion valid if it holds across all modeled possibilities, and they reject it when they find a counterexample where the premises hold but the conclusion does not.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Mental_model.md
+- Source URL: https://en.wikipedia.org/wiki/Mental_model
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mental-model-externalized-by-three-diagram-types
+Causal loop diagrams, system structure diagrams, and stock and flow diagrams are three diagramming methods used to externalize mental models of dynamic systems.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Mental_model.md
+- Source URL: https://en.wikipedia.org/wiki/Mental_model
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mental-modeler-fuzzy-logic-cognitive-mapping
+Mental Modeler uses fuzzy-logic cognitive mapping to capture, analyze, and combine individual mental models for collaborative decision-making.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Mental_model.md
+- Source URL: https://en.wikipedia.org/wiki/Mental_model
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] minimalism-computing-least-resources
+Minimalism in computing means designing systems that use the least hardware and software resources possible.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Minimalism_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Minimalism_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] early-programmers-8-64kb-ram-88-170kb-floppy
+1970s–80s programmers worked with 8–64 KB RAM and 88–170 KB floppy disks.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Minimalism_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Minimalism_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lambda-calculus-uses-only-functions
+Lambda calculus uses only function definitions and function applications.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Minimalism_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Minimalism_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] go-design-feature-consensus-three-designers
+Go's design process required every feature to have the consensus of all three designers.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Minimalism_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Minimalism_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] scheme-one-primitive-per-concept
+Scheme's design principle is one primitive per concept.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Minimalism_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Minimalism_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] turing-tarpits-minimal-languages-theoretically-complete-practically-unusable
+Turing tarpits are minimal programming languages that risk becoming theoretically complete but practically unusable by stripping away too much standard support.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Minimalism_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Minimalism_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wap-forum-founded-1997-unwired-planet-nokia-ericsson-motorola
+WAP Forum was founded in 1997 by Unwired Planet, Nokia, Ericsson, and Motorola.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Mobile_web.md
+- Source URL: https://en.wikipedia.org/wiki/Mobile_web
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] w3c-mobile-web-initiative-mobileok-scheme
+W3C's Mobile Web Initiative developed best practices and the mobileOK Scheme for validating mobile content readiness.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Mobile_web.md
+- Source URL: https://en.wikipedia.org/wiki/Mobile_web
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] early-mobile-web-used-xhtml-wml
+Early mobile web used XHTML and WML, while modern mobile browsers support full HTML/CSS/JS.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Mobile_web.md
+- Source URL: https://en.wikipedia.org/wiki/Mobile_web
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] amp-three-components-amp-html-js-google-cache
+AMP has three components: AMP HTML, AMP JS, and Google AMP Cache.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Mobile_web.md
+- Source URL: https://en.wikipedia.org/wiki/Mobile_web
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mobile-web-users-5-34-billion-2025
+As of 2025, there were 5.34 billion mobile web users worldwide.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Mobile_web.md
+- Source URL: https://en.wikipedia.org/wiki/Mobile_web
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mobi-tld-launched-consortium-google-microsoft-nokia-samsung-vodafone
+The .mobi top-level domain was launched by a consortium including Google, Microsoft, Nokia, Samsung, and Vodafone.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Mobile_web.md
+- Source URL: https://en.wikipedia.org/wiki/Mobile_web
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] modal-window-aka-heavy-window-or-modal-dialog
+A modal window is also called a heavy window or modal dialog.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Modal_window.md
+- Source URL: https://en.wikipedia.org/wiki/Modal_window
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] modeless-windows-allow-free-focus-switch
+Modeless windows, also called palette windows, allow users to switch focus freely between windows.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Modal_window.md
+- Source URL: https://en.wikipedia.org/wiki/Modal_window
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] modal-windows-prone-to-mode-errors
+Modal windows are prone to mode errors where users may not realize a modal requires attention, leading to confusion or data loss.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Modal_window.md
+- Source URL: https://en.wikipedia.org/wiki/Modal_window
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] windows-modal-affirmative-buttons-lower-right-mac-rightmost
+Platform convention places affirmative modal buttons at the lower right on Windows and as the right-most command button on Mac.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Modal_window.md
+- Source URL: https://en.wikipedia.org/wiki/Modal_window
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] alert-dialog-box-is-common-modal-subtype
+An alert dialog box is a common modal subtype.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Modal_window.md
+- Source URL: https://en.wikipedia.org/wiki/Modal_window
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pagination-divides-content-into-discrete-pages
+Pagination divides a document or data set into discrete pages; paging is a synonym.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Pagination.md
+- Source URL: https://en.wikipedia.org/wiki/Pagination
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] electronic-pages-can-be-fixed-size-or-dynamic
+Electronic pages can be fixed-size (word processor, PDF) or dynamic (HTML/web pages).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Pagination.md
+- Source URL: https://en.wikipedia.org/wiki/Pagination
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] client-side-pagination-preloads-all-records-in-html
+Client-side pagination pre-loads all records in the HTML source, with JavaScript or CSS handling page display.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Pagination.md
+- Source URL: https://en.wikipedia.org/wiki/Pagination
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] server-side-pagination-requests-each-page-individually
+Server-side pagination requests each page individually from the server on navigation.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Pagination.md
+- Source URL: https://en.wikipedia.org/wiki/Pagination
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] widows-and-orphans-avoid-stranded-lines-at-page-boundaries
+Widows and orphans are a typographic rule about avoiding stranded lines at page boundaries.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Pagination.md
+- Source URL: https://en.wikipedia.org/wiki/Pagination
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] client-side-pagination-requires-javascript-may-fail-assistive-tech
+Client-side pagination requires JavaScript, which may cause failure for assistive technology users.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Pagination.md
+- Source URL: https://en.wikipedia.org/wiki/Pagination
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] angus-jenkinson-customerprints-archetypes-1993-94
+Angus Jenkinson independently developed customer segment archetypes ('CustomerPrints') in marketing from 1993-94.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Persona_user_experience.md
+- Source URL: https://en.wikipedia.org/wiki/Persona_(user_experience)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] socio-technical-personas-represent-consumption-practices-and-context
+Socio-technical personas represent consumption practices and their socio-technical context, not just consumers.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Persona_user_experience.md
+- Source URL: https://en.wikipedia.org/wiki/Persona_(user_experience)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pruitt-adlin-four-persona-benefits
+Pruitt and Adlin identified four persona benefits: shared understanding, guided design decisions, empathy building, and focused design.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Persona_user_experience.md
+- Source URL: https://en.wikipedia.org/wiki/Persona_(user_experience)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] chapman-milham-personas-non-reproducible-research
+Chapman and Milham argued there is no reproducible procedure from data to personas, making personas non-reproducible research.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Persona_user_experience.md
+- Source URL: https://en.wikipedia.org/wiki/Persona_(user_experience)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ayoola-2024-personas-improve-social-sustainability
+Ayoola et al. (2024) found personas improved social sustainability in software by discouraging developers from prioritizing antisocial features.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Persona_user_experience.md
+- Source URL: https://en.wikipedia.org/wiki/Persona_(user_experience)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] data-driven-personas-require-personification
+Data-driven personas still require 'personification' (adding a name, photo, and narrative) to be usable by teams.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Persona_user_experience.md
+- Source URL: https://en.wikipedia.org/wiki/Persona_(user_experience)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] progressive-disclosure-is-subpattern-of-interaction-design
+Progressive disclosure is a subpattern within the broader field of interaction design.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Progressive_disclosure.md
+- Source URL: https://en.wikipedia.org/wiki/Progressive_disclosure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] progressive-disclosure-implemented-through-disclosure-widgets-staged-dialogs-contextual-reveal
+Progressive disclosure uses disclosure widgets such as expanders, accordions, and 'Show more' buttons as its primary UI control.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Progressive_disclosure.md
+- Source URL: https://en.wikipedia.org/wiki/Progressive_disclosure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] theme-park-queue-analogy-demonstrates-progressive-disclosure
+The theme park queue design, where only a small segment of the line is visible from any point, demonstrates the progressive disclosure principle in physical design.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Progressive_disclosure.md
+- Source URL: https://en.wikipedia.org/wiki/Progressive_disclosure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] progressive-disclosure-supports-recognition-over-recall-and-error-prevention
+Progressive disclosure supports Nielsen's usability heuristics around recognition over recall and error prevention.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Progressive_disclosure.md
+- Source URL: https://en.wikipedia.org/wiki/Progressive_disclosure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wizard-pattern-is-progressive-disclosure-for-task-completion
+The wizard pattern (multi-step workflows) is a form of progressive disclosure applied to task completion.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Progressive_disclosure.md
+- Source URL: https://en.wikipedia.org/wiki/Progressive_disclosure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] progressive-disclosure-is-distinct-from-responsible-disclosure
+Progressive disclosure is distinct from responsible disclosure, a security concept.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Progressive_disclosure.md
+- Source URL: https://en.wikipedia.org/wiki/Progressive_disclosure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pwa-installable-standalone-using-browser-offline-cache
+A progressive web application is a web application that can be installed on a device as a standalone app using the device's browser offline cache.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Progressive_web_app.md
+- Source URL: https://en.wikipedia.org/wiki/Progressive_web_app
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pwa-introduced-from-2016-as-native-app-alternative
+PWAs were introduced from 2016 as an alternative to native platform-specific apps.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Progressive_web_app.md
+- Source URL: https://en.wikipedia.org/wiki/Progressive_web_app
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pwa-built-with-standard-web-technologies-html-css-javascript-webassembly
+PWAs are built with standard web technologies including HTML, CSS, JavaScript, and WebAssembly.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Progressive_web_app.md
+- Source URL: https://en.wikipedia.org/wiki/Progressive_web_app
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pwa-single-codebase-cross-platform-no-separate-bundling
+PWAs use a single codebase that works on desktop and mobile without separate bundling per platform.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Progressive_web_app.md
+- Source URL: https://en.wikipedia.org/wiki/Progressive_web_app
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] service-worker-is-web-worker-proxy-enabling-offline-push-background-sync
+A service worker is a type of Web Worker that acts as a programmable network proxy, enabling offline support, push notifications, and background sync.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Progressive_web_app.md
+- Source URL: https://en.wikipedia.org/wiki/Progressive_web_app
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] web-app-manifest-is-w3c-specification-providing-installability-metadata
+The web app manifest is a W3C specification that provides metadata for installability, including home screen integration, splash screens, and app discovery.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Progressive_web_app.md
+- Source URL: https://en.wikipedia.org/wiki/Progressive_web_app
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-lighthouse-open-source-pwa-audit-tool
+Google Lighthouse is an open-source audit tool for evaluating PWA compliance.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Progressive_web_app.md
+- Source URL: https://en.wikipedia.org/wiki/Progressive_web_app
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] prototype-definition-early-sample-model-release
+A prototype is an early sample, model, or release of a product built to test a concept or process.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Prototype.md
+- Source URL: https://en.wikipedia.org/wiki/Prototype
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] materialization-between-formalization-and-evaluation
+Materialization is the process of creating a prototype and sits between formalization (specification) and evaluation in design workflow models.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Prototype.md
+- Source URL: https://en.wikipedia.org/wiki/Prototype
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rapid-prototyping-tests-riskiest-parts-first
+Rapid prototyping builds partial implementations to test the riskiest parts first, avoiding the cost of repeatedly building full designs.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Prototype.md
+- Source URL: https://en.wikipedia.org/wiki/Prototype
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] form-study-prototype-emphasizes-geometry-over-color-texture
+A form study prototype, a subset of visual prototype, emphasizes geometry over color/texture.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Prototype.md
+- Source URL: https://en.wikipedia.org/wiki/Prototype
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] paper-prototype-printed-hand-drawn-ui
+A paper prototype is a printed or hand-drawn UI representation for early testing and software walkthroughs.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Prototype.md
+- Source URL: https://en.wikipedia.org/wiki/Prototype
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] functional-prototype-captures-function-and-appearance
+A functional prototype captures both function and appearance, possibly at different scale or using different techniques.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Prototype.md
+- Source URL: https://en.wikipedia.org/wiki/Prototype
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] data-prototyping-produces-cleansing-transformation-rules
+Data prototyping produces cleansing/transformation rules validated against real data, relevant to data migration and integration projects.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Prototype.md
+- Source URL: https://en.wikipedia.org/wiki/Prototype
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] flexible-images-relative-units-prevent-overflow
+Flexible images are sized in relative units to prevent them from overflowing their containing elements.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Responsive_web_design.md
+- Source URL: https://en.wikipedia.org/wiki/Responsive_web_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] css3-media-queries-extend-media-rule
+CSS3 media queries are an extension of the @media rule that applies different CSS styles based on device characteristics such as viewport width or physical display size.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Responsive_web_design.md
+- Source URL: https://en.wikipedia.org/wiki/Responsive_web_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] viewport-meta-tag-standard-practice
+The viewport meta tag with width=device-width and initial-scale=1 is standard practice for mobile rendering.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Responsive_web_design.md
+- Source URL: https://en.wikipedia.org/wiki/Responsive_web_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] first-major-responsive-site-audi-2001
+Audi.com (late 2001) was the first major responsive site, predating the term responsive web design by nearly a decade.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Responsive_web_design.md
+- Source URL: https://en.wikipedia.org/wiki/Responsive_web_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mashable-2013-year-of-responsive-web-design
+Mashable called 2013 'The Year of Responsive Web Design'.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Responsive_web_design.md
+- Source URL: https://en.wikipedia.org/wiki/Responsive_web_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] css-preprocessors-used-in-ress
+CSS preprocessors (Sass, Less, Stylus) are often used in RESS approaches to generate device-specific stylesheets server-side.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Responsive_web_design.md
+- Source URL: https://en.wikipedia.org/wiki/Responsive_web_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] browser-devtools-include-responsive-viewport-resizers
+Browser developer tools in Chrome, Firefox, and Safari include responsive design viewport resizers.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Responsive_web_design.md
+- Source URL: https://en.wikipedia.org/wiki/Responsive_web_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] screen-readers-convert-text-and-images-to-speech-or-braille
+Screen readers are assistive technology software that converts on-screen text and image content into speech or Braille output.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Screen_reader.md
+- Source URL: https://en.wikipedia.org/wiki/Screen_reader
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] off-screen-model-intercepts-os-messages
+The off-screen model is a technique where screen readers intercept OS messages to build an internal representation of the GUI because graphical interfaces lack a purely textual representation.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Screen_reader.md
+- Source URL: https://en.wikipedia.org/wiki/Screen_reader
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] earcons-non-speech-audio-cues
+Earcons are non-speech audio cues used alongside or instead of speech to convey interface events.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Screen_reader.md
+- Source URL: https://en.wikipedia.org/wiki/Screen_reader
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] screen-readers-use-accessibility-apis-to-query-display
+Accessibility APIs are standardized interfaces provided by operating systems and platforms that let screen readers query what is currently displayed and receive updates on changes.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Screen_reader.md
+- Source URL: https://en.wikipedia.org/wiki/Screen_reader
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] jaws-scripting-customizes-screen-reader-behavior
+JAWS scripting allows customization of screen reader behavior for specific applications and sharing customizations across user communities.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Screen_reader.md
+- Source URL: https://en.wikipedia.org/wiki/Screen_reader
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] screen-reader-term-originated-ibm-1984
+The term 'screen reader' originated from IBM's 1984 product IBM Screen Reader, developed from the earlier SAID prototype around 1978.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Screen_reader.md
+- Source URL: https://en.wikipedia.org/wiki/Screen_reader
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] screen-readers-follow-keyboard-focus
+Screen readers follow focus; interactive elements must be keyboard-focusable and announce their role, state, and name.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Screen_reader.md
+- Source URL: https://en.wikipedia.org/wiki/Screen_reader
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] spa-progressive-downloading-lazy-loads-modules
+SPAs often lazily load features and screen modules as needed rather than downloading everything upfront.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Single-page_application.md
+- Source URL: https://en.wikipedia.org/wiki/Single-page_application
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] spa-data-transport-raw-vs-html-fragments
+SPAs use two data transport patterns: the server returns raw XML/JSON that client-side JavaScript translates to HTML, or the server returns HTML fragments that JavaScript inserts into a partial DOM area.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Single-page_application.md
+- Source URL: https://en.wikipedia.org/wiki/Single-page_application
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] server-sent-events-server-initiated-push
+Server-Sent Events (SSE) provide server-initiated data push over standard HTTP and include automatic reconnection, event IDs, and arbitrary event types.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Single-page_application.md
+- Source URL: https://en.wikipedia.org/wiki/Single-page_application
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] spa-states-analogous-to-pages
+In a SPA, states are analogous to pages in a traditional site; state navigation within a single page mirrors page navigation.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Single-page_application.md
+- Source URL: https://en.wikipedia.org/wiki/Single-page_application
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] svelte-compiles-away-framework-no-virtual-dom
+Svelte compiles away the framework so no virtual DOM is shipped to the client.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Single-page_application.md
+- Source URL: https://en.wikipedia.org/wiki/Single-page_application
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] spa-can-run-from-file-uri-with-web-storage
+SPAs can run from the local file system using the file:// URI scheme with browser Web Storage for persistence.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Single-page_application.md
+- Source URL: https://en.wikipedia.org/wiki/Single-page_application
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] human-visible-sitemaps-can-double-as-crawler-aids
+Human-visible sitemaps can double as crawler aids in addition to helping visitors find pages.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Site_map.md
+- Source URL: https://en.wikipedia.org/wiki/Site_map
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] site-indexes-alphabetically-organized
+Site indexes are alphabetically organized sitemaps, a distinct approach from hierarchical ones.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Site_map.md
+- Source URL: https://en.wikipedia.org/wiki/Site_map
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] xml-sitemap-namespace-url
+The XML namespace for sitemaps is http://www.sitemaps.org/schemas/sitemap/0.9.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Site_map.md
+- Source URL: https://en.wikipedia.org/wiki/Site_map
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sitemap-tag-values-xml-entity-escaped
+All tag values in XML sitemaps must be XML entity-escaped.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Site_map.md
+- Source URL: https://en.wikipedia.org/wiki/Site_map
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] xml-sitemap-uses-urlset-root-element
+An XML sitemap uses a <urlset> root element containing <url> entries with <loc> elements.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Site_map.md
+- Source URL: https://en.wikipedia.org/wiki/Site_map
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] skeuomorphism-requires-functional-necessity-in-original
+Skeuomorphism requires that the retained design element was functionally necessary in the original; mere stylistic similarity is not sufficient.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Skeuomorph.md
+- Source URL: https://en.wikipedia.org/wiki/Skeuomorph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] skeuomorphism-enables-perceived-affordances-by-physical-reference
+Skeuomorphic design enables perceived affordances by referencing familiar physical objects, allowing users to infer what an object does based on its appearance.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Skeuomorph.md
+- Source URL: https://en.wikipedia.org/wiki/Skeuomorph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] skeuomorphism-vs-path-dependence-ornamental-vs-functional
+Skeuomorphism preserves ornamental cues, while path dependence preserves functional behavior after the original reason for that behavior disappears.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Skeuomorph.md
+- Source URL: https://en.wikipedia.org/wiki/Skeuomorph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] visual-skeuomorphs-include-desktop-metaphor-folder-icons-calculator-uis
+Visual skeuomorphs include the desktop metaphor, folder icons, calculator UIs, Rolodex-style contact lists, analog clock faces, and synthesizer knobs and dials.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Skeuomorph.md
+- Source URL: https://en.wikipedia.org/wiki/Skeuomorph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] auditory-skeuomorphs-include-camera-shutter-clicks-and-engine-sounds
+Auditory skeuomorphs include camera shutter clicks, paper-crumpling sounds on file deletion, and engine sounds in electric cars.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Skeuomorph.md
+- Source URL: https://en.wikipedia.org/wiki/Skeuomorph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gestural-skeuomorphs-include-page-swiping-and-slider-bars
+Gestural skeuomorphs include page-swiping on tablets and slider bars emulating linear potentiometers.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Skeuomorph.md
+- Source URL: https://en.wikipedia.org/wiki/Skeuomorph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] some-skeuomorphs-outlive-referents-and-become-abstract-symbols
+Some skeuomorphs outlive their physical referents and become abstract symbols, such as the floppy disk icon for 'save'.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Skeuomorph.md
+- Source URL: https://en.wikipedia.org/wiki/Skeuomorph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] frutiger-aero-derived-from-mid-2000s-skeuomorphic-ui
+Frutiger Aero is a nostalgic aesthetic derived from mid-2000s skeuomorphic UI, spanning Windows XP through Windows 7.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Skeuomorph.md
+- Source URL: https://en.wikipedia.org/wiki/Skeuomorph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] think-aloud-protocol-is-data-gathering-method-in-usability-testing
+The think-aloud protocol is a data-gathering method used in usability testing where participants verbalize their thoughts, actions, and feelings while performing tasks.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Think-aloud_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Think-aloud_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] think-aloud-sessions-typically-audio-video-recorded
+Think-aloud sessions are typically audio- and video-recorded for later review.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Think-aloud_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Think-aloud_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] think-aloud-reveals-cognitive-process-not-just-task-outcome
+Think-aloud reveals users' genuine cognitive processes and mental models, not just task completion outcomes.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Think-aloud_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Think-aloud_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] think-aloud-practitioners-prompt-more-than-strict-protocol-avoid-leading-questions
+Think-aloud practitioners often need to prompt more than Ericsson and Simon's strict protocol allows, but must avoid leading questions or giving clues.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Think-aloud_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Think-aloud_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] partial-concurrent-think-aloud-balances-concurrent-and-retrospective
+Partial concurrent thinking aloud is a variant that balances concurrent and retrospective approaches.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Think-aloud_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Think-aloud_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rubber-duck-debugging-analogous-to-think-aloud
+Rubber duck debugging is an analogous concept in software development where explaining code aloud reveals problems.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Think-aloud_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Think-aloud_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] boren-ramey-documented-divergence-from-ericsson-simon-strict-protocol
+Boren and Ramey documented divergences between practical think-aloud usability testing and Ericsson and Simon's strict protocol.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Think-aloud_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Think-aloud_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] some-concurrent-think-aloud-studies-show-no-interference-effects
+Some concurrent think-aloud protocols have shown no interference effects, suggesting both completeness and authenticity can be optimized simultaneously.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Think-aloud_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Think-aloud_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tooltip-is-text-box-on-hover-describing-ui-element
+A tooltip (also called infotip, hint, mouseover, or hover text) is a text box that appears on hover to describe a UI element's function, expand an abbreviation, or show metadata like timestamps.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Tooltip.md
+- Source URL: https://en.wikipedia.org/wiki/Tooltip
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tooltips-display-continuously-while-hovering
+Tooltips display continuously as long as the user hovers over the triggering element.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Tooltip.md
+- Source URL: https://en.wikipedia.org/wiki/Tooltip
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tooltips-can-nest-to-arbitrary-depth
+Tooltips can nest, with hovering within a tooltip's text box triggering another tooltip to arbitrary depth.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Tooltip.md
+- Source URL: https://en.wikipedia.org/wiki/Tooltip
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] older-tooltip-variant-displayed-in-status-bar
+A common older variant displayed tooltip-like descriptions in the status bar instead of a floating box.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Tooltip.md
+- Source URL: https://en.wikipedia.org/wiki/Tooltip
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] some-applications-allow-tooltips-to-be-toggled-off
+Some applications, such as GIMP, allow users to toggle tooltips off, though this is developer-discretionary and often unimplemented.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Tooltip.md
+- Source URL: https://en.wikipedia.org/wiki/Tooltip
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] custom-tooltips-can-be-built-with-css-html-javascript
+Custom tooltips can be built with CSS, HTML, and JavaScript.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Tooltip.md
+- Source URL: https://en.wikipedia.org/wiki/Tooltip
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tooltips-originated-in-toolbar-icon-descriptions-in-early-1990s-microsoft-apps
+Tooltips originated from toolbar icon descriptions in early 1990s Microsoft applications like Word 95.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Tooltip.md
+- Source URL: https://en.wikipedia.org/wiki/Tooltip
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tooltips-are-informational-gui-elements
+Tooltips are classified as informational GUI elements, alongside progress bars, toasts, labels, icons, and loading screens.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Tooltip.md
+- Source URL: https://en.wikipedia.org/wiki/Tooltip
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] typography-is-art-and-technique-of-arranging-type
+Typography is the art and technique of arranging type to make written language legible, readable, and visually appealing.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Typography.md
+- Source URL: https://en.wikipedia.org/wiki/Typography
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] typography-encompasses-typeface-point-size-line-length-spacing-kerning
+Typography encompasses selecting typefaces, point sizes, line lengths, line spacing, letter spacing, and kerning.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Typography.md
+- Source URL: https://en.wikipedia.org/wiki/Typography
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] typographers-and-type-designers-are-distinct-crafts
+Most typographers do not design typefaces, and some type designers do not consider themselves typographers; these are related but distinct crafts.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Typography.md
+- Source URL: https://en.wikipedia.org/wiki/Typography
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] word-shape-bouma-argued-essential-to-readability
+Some typographers argue that overall word shape (Bouma) influenced by ascenders and descenders in lowercase is essential to readability, contrasting with parallel letter recognition theory.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Typography.md
+- Source URL: https://en.wikipedia.org/wiki/Typography
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] experimental-typography-prioritizes-emotional-expression-over-legibility
+Experimental typography uses unconventional approaches prioritizing emotional expression over legibility, such as David Carson's Ray Gun magazine work in the 1990s.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Typography.md
+- Source URL: https://en.wikipedia.org/wiki/Typography
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] serif-typefaces-preferred-for-body-text-sans-serif-for-headings
+Serif typefaces are generally preferred for body text and long-form reading, while sans-serif is common for headings, short articles, and introductory paragraphs.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Typography.md
+- Source URL: https://en.wikipedia.org/wiki/Typography
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] old-style-roman-typefaces-similarly-weighted-lines-modern-contrast
+Old-style Roman typefaces have similarly weighted lines, while modern Roman typefaces show contrast between light and heavy strokes.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Typography.md
+- Source URL: https://en.wikipedia.org/wiki/Typography
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] international-typographic-style-and-swiss-style-key-movements
+The International Typographic Style (1920s–30s) and Swiss Style (1950s–60s) are key movements in typographic history.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Typography.md
+- Source URL: https://en.wikipedia.org/wiki/Typography
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] usability-is-non-functional-requirement-measured-indirectly
+Usability is a non-functional requirement that cannot be measured directly, only through indirect measures such as reported problems, task completion time, and error rates.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability.md
+- Source URL: https://en.wikipedia.org/wiki/Usability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] prototypicality-users-prefer-designs-conforming-to-norms
+Prototypicality refers to users preferring designs that conform to recognized norms; deviation from shared expectations reduces perceived usability.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability.md
+- Source URL: https://en.wikipedia.org/wiki/Usability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] usability-testing-vs-usability-engineering-distinction
+Usability testing measures ease of use, while usability engineering is the research and design process ensuring good usability.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability.md
+- Source URL: https://en.wikipedia.org/wiki/Usability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] keystroke-level-model-is-simplified-goms
+The Keystroke Level Model is a simplified GOMS model with assumptions to reduce calculation complexity.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability.md
+- Source URL: https://en.wikipedia.org/wiki/Usability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] parallel-design-multiple-designers-then-cross-pollinate
+Parallel design involves multiple designers independently creating solutions from the same requirements, then cross-pollinating the best ideas.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability.md
+- Source URL: https://en.wikipedia.org/wiki/Usability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] card-sorting-reveals-mental-models-for-information-architecture
+Card sorting is a method where users group content into categories to reveal mental models for information architecture decisions.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability.md
+- Source URL: https://en.wikipedia.org/wiki/Usability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tree-testing-evaluates-findability-separate-from-visual-design
+Tree testing evaluates findability and labeling separate from visual design.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability.md
+- Source URL: https://en.wikipedia.org/wiki/Usability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] focus-groups-6-10-users-product-definition-stage
+Focus groups involve 6–10 users discussing desires and are used in the product definition stage.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability.md
+- Source URL: https://en.wikipedia.org/wiki/Usability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] usability-labs-controlled-environment
+Usability labs are purpose-built spaces with controlled conditions, equipment, and formatting flexibility for structured usability testing.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability_testing.md
+- Source URL: https://en.wikipedia.org/wiki/Usability_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] co-discovery-learning-method
+Co-discovery learning is a usability testing method where two participants work together and naturally verbalize their reasoning.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability_testing.md
+- Source URL: https://en.wikipedia.org/wiki/Usability_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] usability-testing-observers-do-not-intervene
+During a standard usability test, observers do not intervene while participants perform tasks.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability_testing.md
+- Source URL: https://en.wikipedia.org/wiki/Usability_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] guerrilla-testing-convenience-sampling
+Guerrilla testing uses convenience sampling, so results are potentially biased and should be paired with other methods.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability_testing.md
+- Source URL: https://en.wikipedia.org/wiki/Usability_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] remote-synchronous-vs-asynchronous-tradeoffs
+Remote synchronous usability testing preserves moderator-participant interaction but sacrifices environmental control, while remote asynchronous testing scales better and is more cost-effective but loses the ability to probe in real-time.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability_testing.md
+- Source URL: https://en.wikipedia.org/wiki/Usability_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] disability-prevalence-16-percent-global
+Approximately 16% of the global population has a significant disability.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Usability_testing.md
+- Source URL: https://en.wikipedia.org/wiki/Usability_testing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ucd-priority-hierarchy-users-context-tasks
+UCD prioritizes users first, then product context/objectives/operating environment, then granular task details.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User-centered_design.md
+- Source URL: https://en.wikipedia.org/wiki/User-centered_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ucd-applies-cognitive-science-principles
+UCD applies cognitive science principles to understand users' mental processes, behaviors, and needs to create intuitive products.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User-centered_design.md
+- Source URL: https://en.wikipedia.org/wiki/User-centered_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ucd-testing-mitigates-first-time-user-gap
+Designers struggle to understand first-time user experiences and learning curves, and testing at every stage mitigates this gap.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User-centered_design.md
+- Source URL: https://en.wikipedia.org/wiki/User-centered_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ucd-research-methods-three-categories
+UCD research methods are categorized as investigative (ethnographic study, contextual inquiry, prototype testing, usability testing), generative (card sorting, affinity diagramming, participatory design sessions), and analytical (comparative analysis of similar usable products).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User-centered_design.md
+- Source URL: https://en.wikipedia.org/wiki/User-centered_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] norman-key-books-1986-1988
+Don Norman's two key books are User-Centered System Design (1986) and The Design of Everyday Things (1988).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User-centered_design.md
+- Source URL: https://en.wikipedia.org/wiki/User-centered_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ux-design-definition-entire-experience
+User experience design (UX design) is a user-centered design discipline that defines the entire experience a person has when interacting with a company, its services, and products.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_experience_design.md
+- Source URL: https://en.wikipedia.org/wiki/User_experience_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ux-design-multidisciplinary-sources
+UX design draws from human-computer interaction, interaction design, visual design, information architecture, user research, motion graphics, animation, programming, and service design.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_experience_design.md
+- Source URL: https://en.wikipedia.org/wiki/User_experience_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] information-architecture-definition-structuring-information
+Information architecture (IA) is the art and science of structuring and organizing information to support usability and findability.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_experience_design.md
+- Source URL: https://en.wikipedia.org/wiki/User_experience_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] user-research-produces-personas-and-scenarios
+User research systematically studies target users via interviews, surveys, field studies, and contextual inquiry, and produces personas and scenarios.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_experience_design.md
+- Source URL: https://en.wikipedia.org/wiki/User_experience_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hci-definition-design-evaluation-implementation
+Human-computer interaction (HCI) is the design, evaluation, and implementation of interactive computing systems for human use.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_experience_design.md
+- Source URL: https://en.wikipedia.org/wiki/User_experience_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ux-core-deliverables-title-page-introduction-wireframes-version-history
+Core UX specification documents include a title page, introduction to the feature, wireframes, and version history.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_experience_design.md
+- Source URL: https://en.wikipedia.org/wiki/User_experience_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ux-writer-crafts-microcopy
+A UX writer crafts microcopy such as button labels, error messages, and tooltips, conducts user research, sets product tone, and ensures accessibility.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_experience_design.md
+- Source URL: https://en.wikipedia.org/wiki/User_experience_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ux-design-decisions-driven-by-research-data-testing
+UX design decisions are driven by research, data analysis, and test results rather than aesthetic preferences and opinions.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_experience_design.md
+- Source URL: https://en.wikipedia.org/wiki/User_experience_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] three-types-user-interfaces
+The three types of user interfaces are graphical (GUI), voice-controlled, and gesture-based (3D/VR).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_interface_design.md
+- Source URL: https://en.wikipedia.org/wiki/User_interface_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ifip-user-interface-reference-model-four-dimensions
+The IFIP user interface reference model defines four dimensions: input/output (look), dialogue (feel), technical/functional (tool access), and organizational (collaboration support).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_interface_design.md
+- Source URL: https://en.wikipedia.org/wiki/User_interface_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] iso-9241-part-13-five-user-guidance-means
+ISO 9241 Part 13 specifies five means of user guidance: prompts, feedback, status information, error management, and on-line help.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_interface_design.md
+- Source URL: https://en.wikipedia.org/wiki/User_interface_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ui-design-encompasses-ia-visual-interaction
+User interface (UI) design encompasses information architecture, visual design, and interaction design.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_interface_design.md
+- Source URL: https://en.wikipedia.org/wiki/User_interface_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ui-design-driven-by-ucd-and-design-thinking
+UI design is driven by user-centered design practices and is typically executed through the design thinking framework (EDIPT).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_interface_design.md
+- Source URL: https://en.wikipedia.org/wiki/User_interface_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] feature-injection-template
+The Feature Injection user story template (by Chris Matts) is value-first: 'In order to <receive benefit> as a <role>, I can <goal/desire>'.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_story.md
+- Source URL: https://en.wikipedia.org/wiki/User_story
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] five-ws-user-story-template
+The Five Ws user story template is: 'As <who> <when> <where>, I want <what> because <why>'.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_story.md
+- Source URL: https://en.wikipedia.org/wiki/User_story
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] acceptance-criteria-define-done
+Acceptance criteria are notes defining what a story must do for the product owner to accept it as complete; all criteria must be met for a story to be 'done'.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_story.md
+- Source URL: https://en.wikipedia.org/wiki/User_story
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] product-owner-writes-and-prioritizes-stories
+In Scrum, the product owner (or product manager) is primarily responsible for writing and prioritizing user stories in the product backlog.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_story.md
+- Source URL: https://en.wikipedia.org/wiki/User_story
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] user-stories-as-boundary-objects
+User stories serve as boundary objects that facilitate sensemaking and communication between stakeholders such as developers, customers, and managers.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_story.md
+- Source URL: https://en.wikipedia.org/wiki/User_story
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] no-strong-evidence-user-stories-increase-success
+There is no strong evidence that user stories increase software success or productivity, but they facilitate sensemaking without premature problem structuring.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_story.md
+- Source URL: https://en.wikipedia.org/wiki/User_story
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] user-story-limitations
+User story limitations include scale-up problems, vagueness/informality, lack of non-functional requirements, and potential failure to reflect technical constraints.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_story.md
+- Source URL: https://en.wikipedia.org/wiki/User_story
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] stories-can-be-written-by-any-stakeholder
+User stories can be written by any stakeholder, not exclusively the product owner.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-User_story.md
+- Source URL: https://en.wikipedia.org/wiki/User_story
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bertin-visual-variables-alternative-cartography-categorization
+Jacques Bertin's visual variables are an alternative categorization of visual contrast characteristics widely used in cartography.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Visual_hierarchy.md
+- Source URL: https://en.wikipedia.org/wiki/Visual_hierarchy
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] camouflage-eliminates-visual-hierarchy-by-reducing-contrast
+Camouflage is the deliberate elimination of visual hierarchy by reducing contrast in color and character.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Visual_hierarchy.md
+- Source URL: https://en.wikipedia.org/wiki/Visual_hierarchy
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cartographic-visual-hierarchy-three-levels
+In cartographic design, visual hierarchy applies at three levels: individual features, map layers, and page layout.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Visual_hierarchy.md
+- Source URL: https://en.wikipedia.org/wiki/Visual_hierarchy
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ux-visual-hierarchy-prioritizes-navigation-and-behavioral-nudges
+In UX and web design, visual hierarchy serves two functions: prioritizing navigational structures and increasing the chance users notice behavioral nudges.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Visual_hierarchy.md
+- Source URL: https://en.wikipedia.org/wiki/Visual_hierarchy
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] upper-left-prominence-western-reading-cultures
+In western reading cultures, the upper-left position has prominence in visual alignment hierarchy.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Visual_hierarchy.md
+- Source URL: https://en.wikipedia.org/wiki/Visual_hierarchy
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wai-aria-specification-defines-dynamic-web-accessibility
+WAI-ARIA is a W3C technical specification that defines how to make dynamic web content and UI components accessible to users with disabilities.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-WAI-ARIA.md
+- Source URL: https://en.wikipedia.org/wiki/WAI-ARIA
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wai-aria-applies-to-svg-and-other-markup-languages
+WAI-ARIA is not limited to HTML and can also be applied to SVG and other markup languages.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-WAI-ARIA.md
+- Source URL: https://en.wikipedia.org/wiki/WAI-ARIA
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wai-aria-enables-application-role-declaration
+WAI-ARIA allows pages or page regions to declare themselves as applications rather than static documents.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-WAI-ARIA.md
+- Source URL: https://en.wikipedia.org/wiki/WAI-ARIA
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wai-aria-targets-four-audiences
+WAI-ARIA targets four audiences: web app developers, browser implementers, assistive technology vendors, and accessibility evaluation tool creators.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-WAI-ARIA.md
+- Source URL: https://en.wikipedia.org/wiki/WAI-ARIA
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] aria-attributes-map-to-platform-accessibility-apis
+ARIA attributes map to platform accessibility APIs such as MSAA, UIA, ATK/AT-SPI, and macOS AX API, which assistive technologies query.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-WAI-ARIA.md
+- Source URL: https://en.wikipedia.org/wiki/WAI-ARIA
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wcag-2-1-adds-17-success-criteria
+WCAG 2.1 adds 17 new success criteria to WCAG 2.0.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_Content_Accessibility_Guidelines.md
+- Source URL: https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wcag-techniques-updated-independently-of-stable-success-criteria
+WCAG techniques are periodically updated how-to guidance, while principles, guidelines, and success criteria are stable and do not change.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_Content_Accessibility_Guidelines.md
+- Source URL: https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wcag-1-0-had-14-guidelines-65-checkpoints
+WCAG 1.0 used 14 guidelines with 65 checkpoints and three priority levels before being replaced by WCAG 2.0's structure.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_Content_Accessibility_Guidelines.md
+- Source URL: https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wcag-3-0-working-draft-september-2025
+WCAG 3.0 is a working draft last updated September 2025, not an official W3C Recommendation.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_Content_Accessibility_Guidelines.md
+- Source URL: https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] en-301-549-incorporates-wcag-2-1-aa-by-reference
+EN 301 549 is the European ICT accessibility standard that incorporates WCAG 2.1 Level AA by reference.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_Content_Accessibility_Guidelines.md
+- Source URL: https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] web-accessibility-removes-barriers-for-disabled-users
+Web accessibility (eAccessibility) is the inclusive practice of removing barriers that prevent people with disabilities from interacting with websites.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_accessibility.md
+- Source URL: https://en.wikipedia.org/wiki/Web_accessibility
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] screen-readers-output-synthesized-speech
+Screen readers provide synthesized speech output of screen content for blind and vision-impaired users.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_accessibility.md
+- Source URL: https://en.wikipedia.org/wiki/Web_accessibility
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] braille-terminals-use-refreshable-raised-pegs
+Braille terminals are refreshable braille displays using raised pegs, often paired with standard or braille keyboards.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_accessibility.md
+- Source URL: https://en.wikipedia.org/wiki/Web_accessibility
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eu-web-accessibility-directive-2016-deadlines
+The EU Web Accessibility Directive (2016) required public sector websites to comply by September 2018 and mobile apps by June 2021.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_accessibility.md
+- Source URL: https://en.wikipedia.org/wiki/Web_accessibility
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] atag-28-checkpoints-cover-four-areas
+ATAG has 28 checkpoints covering accessible output, author prompting, checking and correcting content, and tool accessibility.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_accessibility.md
+- Source URL: https://en.wikipedia.org/wiki/Web_accessibility
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] web-design-multidisciplinary-front-end-practice
+Web design is a multidisciplinary practice combining graphic design, UI design, UX design, markup authoring, and SEO, focused on front-end client-side design.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_design.md
+- Source URL: https://en.wikipedia.org/wiki/Web_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fluid-layouts-replaced-table-grid-designs-around-2000
+Fluid layouts replaced rigid table-based and grid-based web designs around 2000, with content blocks reflowing based on window size rather than fixed pixel widths.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_design.md
+- Source URL: https://en.wikipedia.org/wiki/Web_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] spool-2007-argued-homepage-least-important
+In 2007, Spool argued the homepage is actually the least important page because search engines and RSS drive users directly to internal pages.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_design.md
+- Source URL: https://en.wikipedia.org/wiki/Web_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] w3c-markup-validation-requires-correct-doctype
+W3C markup validation requires a correct DOCTYPE declaration to check HTML conformance.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_design.md
+- Source URL: https://en.wikipedia.org/wiki/Web_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] css3-font-downloading-supported-safari-3-1-opera-10-firefox-3-5
+CSS3 font downloading was supported in Safari 3.1, Opera 10, and Firefox 3.5, expanding web typography options.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_design.md
+- Source URL: https://en.wikipedia.org/wiki/Web_design
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] web-navigation-definition-browser-hypertext
+Web navigation is the process of traversing information resources on the World Wide Web, organized as hypertext or hypermedia, using a web browser.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_navigation.md
+- Source URL: https://en.wikipedia.org/wiki/Web_navigation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] web-nav-local-navigation-in-text-links
+Local navigation consists of in-text links within a page that connect to other pages in the same site.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_navigation.md
+- Source URL: https://en.wikipedia.org/wiki/Web_navigation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] web-nav-navigation-bar-site-wide-links
+A navigation bar is a dedicated section of a page containing site-wide links.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_navigation.md
+- Source URL: https://en.wikipedia.org/wiki/Web_navigation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] web-nav-dropdown-menu-click-options
+A dropdown menu is a GUI control that reveals a list of options on click.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_navigation.md
+- Source URL: https://en.wikipedia.org/wiki/Web_navigation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] web-nav-flyout-menu-hover-click-expands
+A flyout menu appears on hover or click and expands to the side or downward.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_navigation.md
+- Source URL: https://en.wikipedia.org/wiki/Web_navigation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] web-nav-logged-in-out-content-complexity
+Website content may vary between logged-in and logged-out states, adding complexity to navigation design.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_navigation.md
+- Source URL: https://en.wikipedia.org/wiki/Web_navigation
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] web-performance-definition-page-download-display-speed
+Web performance refers to the speed at which web pages are downloaded and displayed in a user's browser.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_performance.md
+- Source URL: https://en.wikipedia.org/wiki/Web_performance
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wpo-resource-consolidation-reduces-http-round-trips
+Resource consolidation bundles smaller files such as images into a single file to reduce HTTP round trips, since browsers limit simultaneous TCP connections per host.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_performance.md
+- Source URL: https://en.wikipedia.org/wiki/Web_performance
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wpo-lossy-image-compression-header-quality
+Lossy image compression removes non-essential header information and reduces image quality in ways imperceptible to users.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_performance.md
+- Source URL: https://en.wikipedia.org/wiki/Web_performance
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wpo-vector-graphics-substitute-raster
+Vector graphics substitution replaces raster graphics with resolution-independent vector graphics for simple geometric images.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_performance.md
+- Source URL: https://en.wikipedia.org/wiki/Web_performance
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wpo-web-caching-forward-reverse
+Web caching stores copies of resources to reduce server load, bandwidth, and latency and can be client-side (forward) or server-side (reverse).
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_performance.md
+- Source URL: https://en.wikipedia.org/wiki/Web_performance
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wpo-google-lighthouse-chrome-devtools
+Google Lighthouse is a Chrome DevTools component for measuring web performance.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Web_performance.md
+- Source URL: https://en.wikipedia.org/wiki/Web_performance
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] website-wireframe-aka-page-schematic-screen-blueprint
+A website wireframe is also called a page schematic or screen blueprint.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Website_wireframe.md
+- Source URL: https://en.wikipedia.org/wiki/Website_wireframe
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] website-wireframe-core-focus-areas
+Wireframes address the range of available functions, relative priority of information and functions, display rules for information types, and effect of different scenarios on display.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Website_wireframe.md
+- Source URL: https://en.wikipedia.org/wiki/Website_wireframe
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wireframe-low-fidelity-tools-pen-paper-whiteboard
+Low-fidelity wireframes are produced with pen and paper, whiteboards, or basic digital applications.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Website_wireframe.md
+- Source URL: https://en.wikipedia.org/wiki/Website_wireframe
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wireframe-high-fidelity-tools-interactive-code
+High-fidelity wireframes can be produced with computer software and may incorporate Flash animation, HTML, CSS, and JavaScript for interactivity.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Website_wireframe.md
+- Source URL: https://en.wikipedia.org/wiki/Website_wireframe
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wireframe-hosted-platforms-drag-drop
+Hosted platforms such as Wix, Dorik, and Duda provide drag-and-drop layout planning within their builders.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Website_wireframe.md
+- Source URL: https://en.wikipedia.org/wiki/Website_wireframe
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wireframe-interface-design-ui-elements
+Wireframe interface design selects and arranges UI elements such as buttons, text fields, checkboxes, radio buttons, and dropdowns.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-Website_wireframe.md
+- Source URL: https://en.wikipedia.org/wiki/Website_wireframe
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] white-space-definition-unmarked-page-portion
+White space is the portion of a page left unmarked in page layout and illustration.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-White_space_visual_arts.md
+- Source URL: https://en.wikipedia.org/wiki/White_space_(visual_arts)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] white-space-margins-gutters-control-macro-level
+Margins and gutters control macro-level white space in page layout.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-White_space_visual_arts.md
+- Source URL: https://en.wikipedia.org/wiki/White_space_(visual_arts)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] white-space-leading-controls-micro-level
+Leading (line spacing) controls micro-level white space between text lines.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-White_space_visual_arts.md
+- Source URL: https://en.wikipedia.org/wiki/White_space_(visual_arts)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] white-space-horror-vacui-opposite-impulse
+Horror vacui is the opposite impulse to white space, filling every available space with detail.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-White_space_visual_arts.md
+- Source URL: https://en.wikipedia.org/wiki/White_space_(visual_arts)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] white-space-ma-japanese-meaningful-emptiness
+Ma is a Japanese concept that emphasizes the meaningfulness of emptiness.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-White_space_visual_arts.md
+- Source URL: https://en.wikipedia.org/wiki/White_space_(visual_arts)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] white-space-type-color-density
+Type color is the overall visual density of a text block and is directly affected by white space.
+- Source: /home/forge/workspace/entries/2026/06/20/wiki-White_space_visual_arts.md
+- Source URL: https://en.wikipedia.org/wiki/White_space_(visual_arts)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+

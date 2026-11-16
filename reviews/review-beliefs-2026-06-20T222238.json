@@ -1,0 +1,658 @@
+{
+  "timestamp": "2026-06-20T22:22:38",
+  "status": "complete",
+  "model": "claude",
+  "timeout": 600,
+  "dry_run": false,
+  "filters": {
+    "belief_ids": null,
+    "min_depth": 8,
+    "depends_on": null,
+    "namespace": null,
+    "sample": null,
+    "visible_to": null
+  },
+  "reviewed": 79,
+  "total_derived": 312,
+  "summary": {
+    "invalid": 19,
+    "insufficient": 22,
+    "unnecessary": 1
+  },
+  "results": [
+    {
+      "id": "accessibility-closure-reinforced-by-design-system-cognitive-encoding",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The overlap between cognitive constraints (motor/visual/load) and accessibility requirements is well-supported by the specific mechanisms cited in both antecedents."
+    },
+    {
+      "id": "accessibility-enforcement-maps-categories-across-production-stack",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Clean synthesis: disability categories provide rows, production stack layers provide columns, and the WCAG-only limitation is appropriately acknowledged."
+    },
+    {
+      "id": "accessibility-five-categories-mapped-to-design-system-constraints",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The four-of-five mapping is well-hedged and each mapping traces to specific antecedent content, with antecedent 3 specifically supporting the seizure category."
+    },
+    {
+      "id": "aria-invisible-layer-requires-dual-enforcement",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Introduces 'automated testing' as a required enforcement mechanism not present in either antecedent, and redefines 'dual enforcement' from spatial/semantic (antecedent 2's meaning) to encoding/verification \u2014 a plausible practical recommendation but not a strict derivation."
+    },
+    {
+      "id": "complementary-roles-each-independently-modality-complete",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The independence inference (if each arm is independently modality-complete, neither depends on the other) is logically sound; antecedent 1 provides the unified-target framing and antecedent 2 provides the modality-completeness evidence."
+    },
+    {
+      "id": "curb-cut-effect-validates-accessibility-as-universal-quality-mechanism",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The 'universal quality amplifier' claim is well-supported, though 'not a separate quality dimension' slightly overclaims \u2014 two domains of convergence don't prove absence of non-converging accessibility requirements."
+    },
+    {
+      "id": "design-systems-as-cognitive-artifacts-enable-institutional-prevention",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Sound synthesis: cognitive artifact persistence (antecedent 1) provides the mechanism for the reactive-to-proactive evolution (antecedent 2)."
+    },
+    {
+      "id": "design-systems-cognitive-artifacts-with-triple-channel-yield-durable-comprehensive-prevention",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Clean decomposition: cognitive artifact property yields durability, triple-channel coverage yields comprehensiveness, and the claim that neither alone suffices is logically sound."
+    },
+    {
+      "id": "design-systems-complete-instrument-for-unified-field-target",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The mechanism-to-gap mappings (signifier\u2192perceptual, Gestalt\u2192working-memory, progressive-disclosure\u2192overload) are derivable from the antecedents, though 'precisely aligned' is stronger than the evidence strictly warrants."
+    },
+    {
+      "id": "design-systems-complete-perceptual-motor-accessibility-encoding",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Cross-population validity is established for motor encoding (Fitts's law, antecedent 1) but not for visual cognition (antecedent 2 provides enforceable color rules, not cross-population empirical validation) \u2014 the claim illegitimately extends population-level validity from one channel to both."
+    },
+    {
+      "id": "design-systems-complete-quality-instrument-correction-and-protection",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Valid synthesis of historical correction (antecedent 1's crisis-codified lessons) with cognitive protection (antecedent 2's triple-dimension spatial implementation)."
+    },
+    {
+      "id": "design-systems-comprehensive-diagnosis-and-prevention-enforcement",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Straightforward union: diagnostic frameworks (Norman+Cooper) from antecedent 1 combined with dual load management (spatial+temporal) from antecedent 2."
+    },
+    {
+      "id": "design-systems-concrete-spatial-substrate-through-grids",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Grids (antecedent 1) as the concrete implementation mechanism for the spatial dimension of comprehensive constraints (antecedent 2) is a direct and sound connection."
+    },
+    {
+      "id": "design-systems-dual-completeness-cognitive-and-diagnostic",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Valid recognition that cognitive encoding completeness and diagnostic-preventive completeness are independently achieved dimensions in the same artifact."
+    },
+    {
+      "id": "design-systems-dual-spatial-and-semantic-enforcement-substrate",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Introduces specific mechanisms (ARIA compliance, screen reader compatibility, design tokens) not present in either antecedent \u2014 antecedent 2 discusses accessibility-cognitive overlap but never mentions ARIA, screen readers, or design tokens as enforcement specifics."
+    },
+    {
+      "id": "design-systems-encode-comprehensive-cognitive-constraints",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Valid union of orthogonal dimensions: motor+visual (antecedent 1) with spatial+temporal load management (antecedent 2) covers the full perception-to-action arc."
+    },
+    {
+      "id": "design-systems-implement-iso-9241-at-component-level",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Appropriately hedged with 'parallel,' 'suggesting,' and 'depends on scope and rigor' \u2014 the category-level mappings are reasonable interpretations rather than overclaims."
+    },
+    {
+      "id": "design-systems-institutional-self-correction-mechanism",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Dual completeness (antecedent 1) plus empirical crisis validation (antecedent 2) soundly supports the institutional self-correction role."
+    },
+    {
+      "id": "design-systems-self-correction-validated-by-framework-convergence",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "If the self-correction mechanism is grounded in Norman's framework (antecedent 1) and that framework has convergent multi-scale validation (antecedent 2), the mechanism inherits theoretical legitimacy \u2014 a sound transitive argument."
+    },
+    {
+      "id": "design-systems-should-prohibit-carousels-as-compound-pathological-pattern",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Sound a fortiori argument: if modals are superseded (antecedent 2), then carousels \u2014 which compound modal failures with additional infinite-scroll failures (antecedent 1) \u2014 should certainly be prohibited."
+    },
+    {
+      "id": "design-systems-subsume-triple-working-memory-protection",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Antecedent 1 explicitly states IA subdivision is NOT 'a third independent working memory protection mechanism on par with the spatial and temporal dimensions,' yet the claim promotes it to equal orthogonal status \u2014 directly contradicting its own antecedent."
+    },
+    {
+      "id": "design-systems-supersede-modals-as-canonical-complexity-management",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Valid synthesis: one antecedent discredits modals across pattern and theory levels, the other provides the design-system alternative, and the conclusion that the latter supersedes the former follows directly."
+    },
+    {
+      "id": "design-systems-triple-channel-enforcement-spatial-perceptual-semantic",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Three-channel structure follows from combining dual-channel (spatial+semantic) with the independent perceptual-motor channel; characterizing ARIA as 'the invisible layer' adds minor interpretation but doesn't undermine validity."
+    },
+    {
+      "id": "design-systems-triple-protection-with-spatial-implementation-substrate",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Straightforward combination \u2014 triple protection (ant1) plus grids implement spatial dimension (ant2) \u2014 though it inherits ant1's contested elevation of 'structural' to full orthogonal status."
+    },
+    {
+      "id": "design-tokens-operationalize-spatial-and-perceptual-enforcement-channels",
+      "valid": true,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The claim that semantic enforcement 'necessarily' remains at component level is an unstated assumption not derivable from either antecedent; the derivation also silently drops 'motor' from ant2's 'perceptual-motor' channel to make the token mapping work."
+    },
+    {
+      "id": "dual-quality-mandate-concrete-manifestation-of-field-self-correction",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The hedging ('can be read as') appropriately marks this as an interpretive parallel rather than strict deduction; both antecedents provide the two sides of the analogy."
+    },
+    {
+      "id": "evaluation-gap-closure-served-by-modality-complete-detection",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Valid synthesis of multi-modal instruments with lightweight methodology convergence; note the label claims 'behavioral and cognitive' channels not present in the claim text or antecedents."
+    },
+    {
+      "id": "field-achieves-complete-architectural-and-methodological-closure",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Direct combination of architectural embodiment and methodological exhaustiveness into bidimensional closure unified by Norman's framework."
+    },
+    {
+      "id": "field-closure-addresses-unified-target-through-detect-prevent-architecture",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The detect-prevent reframing is well-supported by ant2's characterization of lifecycle evaluation identifying deviations while design systems provide enforceable standards; all three antecedents contribute distinct content."
+    },
+    {
+      "id": "field-closure-encompasses-triple-quality-convergence",
+      "valid": true,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The claim that closure covers 'every measurable quality dimension the field tracks' assumes these three dimensions are exhaustive \u2014 an unstated assumption not established by the antecedents, which enumerate three dimensions without proving no others exist."
+    },
+    {
+      "id": "field-coherence-architecturally-embodied-in-dual-quality-mandate",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Valid synthesis: structural coherence (ant1) plus dual quality mandate as its concrete manifestation (ant2) yields the architectural embodiment claim."
+    },
+    {
+      "id": "field-coherence-methodologically-exhaustive",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Direct combination of unified coherence with lifecycle completeness to establish that coherence operates through methodologically complete coverage at every stage."
+    },
+    {
+      "id": "field-mature-self-correcting-scientific-discipline",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Appropriately hedged ('hallmarks consistent with') synthesis of theoretical closure and empirical self-correction into a scientific maturity characterization."
+    },
+    {
+      "id": "field-maturity-anchored-by-multi-scale-validated-framework",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Direct combination: field maturity (ant1) is anchored by Norman's framework achieving three-scale validation (ant2), making the self-correction claim systematically grounded."
+    },
+    {
+      "id": "field-proactive-architecture-powered-by-norman-dual-mechanisms",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Valid synthesis identifying Norman's framework as the single theoretical root generating both the institutional and lifecycle mechanisms that enable the reactive-to-proactive evolution."
+    },
+    {
+      "id": "field-quality-assurance-evolved-reactive-to-proactive",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Appropriately hedged ('potentially proactive') combination of dual-sensory monitoring capability with institutional self-correction mechanism to support the reactive-to-proactive evolution claim."
+    },
+    {
+      "id": "field-unified-coherence-single-framework-anchors-science-and-practice",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Direct synthesis: ant1 shows Norman's framework validates institutional self-correction, ant2 shows it anchors scientific maturity \u2014 same framework independently validates both."
+    },
+    {
+      "id": "field-unified-theory-target-and-enforcement-mechanism",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Clean derivation: mental-model gap as unified target (ant1) plus design systems as comprehensive enforcement (ant2) equals a field with both unified explanatory target and unified implementation vehicle."
+    },
+    {
+      "id": "fluid-grids-dual-mandate-substrate-for-design-systems",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Straightforward combination of fluid grids' dual mandate with their role as design systems' spatial substrate into a unified quality implementation claim."
+    },
+    {
+      "id": "fluid-grids-unify-dual-quality-mandate-at-spatial-implementation-level",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Valid at the scoped 'spatial level': fluid grids serve the remedial channel (design system enforcement) and a component of the preventive channel (WCAG reflow), though the full preventive channel (progressive enhancement) extends well beyond what grids alone provide."
+    },
+    {
+      "id": "ia-dual-quality-goals-validated-by-complete-subsystem",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The mapping of findability to tree testing and usability to card-sort mental-model alignment is a reasonable domain inference from the antecedents' description of the subsystem's tools and IA's stated quality goals."
+    },
+    {
+      "id": "ia-signifying-patterns-ground-validated-subsystem-in-interaction-surface",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The synthesis that breadcrumbs/dropdowns externalize the validated hierarchy follows from the first antecedent's functional description and the second's validation pipeline, though the definite article 'the interaction-surface grounding' implies exclusivity not fully established."
+    },
+    {
+      "id": "ia-subsystem-concrete-proof-of-lifecycle-completeness",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The existence-proof argument is logically sound: if one lifecycle component demonstrably achieves internal completeness, the architecture permits completeness \u2014 valid as existence proof, not as proof of universal completeness."
+    },
+    {
+      "id": "ixd-five-dimensions-map-to-design-system-enforcement-channels",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The second antecedent describes THREE enforcement channels (spatial, perceptual-motor, semantic) but the claim maps to FIVE by introducing temporal and behavioral channels not present in any antecedent; the Physical Objects/Space dimension mapped to fluid grids also conflates tangible design with 2D layout."
+    },
+    {
+      "id": "lifecycle-and-design-systems-address-unified-target-through-complementary-roles",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The detect/prevent distinction is a valid refinement: the first antecedent's 'identify deviations' maps to detection and the second antecedent's cognitive constraint encoding maps to prevention, with the unified mental-model gap target explicitly named."
+    },
+    {
+      "id": "lifecycle-and-design-systems-mutually-reinforcing-quality-chains",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Both antecedents describe each system's internal completeness independently; the specific mutual reinforcement mechanism (lifecycle evaluates against design-system constraints, design systems provide pass/fail criteria) is a plausible hypothesis but is not derivable from independent characterizations of each system."
+    },
+    {
+      "id": "lifecycle-completeness-dual-proof-structural-and-methodological",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The two antecedents provide exactly the two proofs claimed (structural existence proof via IA subsystem, methodological engine via predict-measure-optimize), and their characterization as operating at different levels (within-stage vs between-stage) accurately reflects the antecedent content."
+    },
+    {
+      "id": "lifecycle-completeness-on-methodological-and-observational-dimensions",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Each antecedent provides exactly one of the two claimed completeness dimensions (methodological coverage and observational modality-completeness), and their independence is logically sound."
+    },
+    {
+      "id": "lifecycle-completeness-within-self-correcting-field",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The 'underpinned by' causal relationship is asserted without support: the second antecedent describes self-correction through empirical crises (TMI, flat design), not through the lifecycle's evaluation pipeline \u2014 the field's documented correction mechanism operates independently of the lifecycle's proven completeness."
+    },
+    {
+      "id": "lifecycle-coverage-convergent-theoretical-and-structural-evidence",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The two antecedents provide genuinely independent confirmation dimensions (theoretical unification vs structural existence proof), and the 'genuine rather than definitional' characterization validly follows from having independent evidence types."
+    },
+    {
+      "id": "lifecycle-dual-engine-coverage",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The complementary-engines synthesis follows from the antecedents, though the characterization of prediction-measurement as working 'within each stage' slightly overstates \u2014 the second antecedent describes it as filling gaps between stages and providing instruments at each stage."
+    },
+    {
+      "id": "lifecycle-gapless-coverage-practically-efficient-through-cuped",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The argument that CUPED removes the A/B-validation feasibility bottleneck (explicitly identified in the first antecedent as breaking rapid iteration without CUPED), thereby making the entire coverage practically achievable, is logically sound as a bottleneck-removal argument."
+    },
+    {
+      "id": "lifecycle-gapless-coverage-unified-by-single-target",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The co-occurrence of gapless coverage and single-target unity follows directly from the two antecedents; however, the characterization as a 'rare disciplinary property' requires cross-discipline comparison not available in the antecedents."
+    },
+    {
+      "id": "mental-model-gap-unifies-field-from-theory-through-enforcement",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The first antecedent covers theory-through-validation and the second covers theory-through-enforcement, together spanning all levels of abstraction claimed; the mental-model gap as common thread at every level follows logically."
+    },
+    {
+      "id": "modality-complete-proactive-architecture-asymmetrically-durable",
+      "valid": true,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The durability asymmetry follows validly (prevention's explicit practitioner-independence via cognitive artifacts implies detection's practitioner-dependence by contrast), but the 'systematic bias toward prevention' organizational outcome requires unstated assumptions about institutional behavior."
+    },
+    {
+      "id": "navigation-taxonomy-implements-ia-subsystem-at-interface-surface",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The claim that the taxonomy defines structural vocabulary while the IA subsystem validates instantiation is a sound separation-of-concerns synthesis from two antecedents describing independent but naturally connected aspects of navigation design."
+    },
+    {
+      "id": "nielsen-rejected-mobile-recommendation-validates-field-self-correction",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The argument that overriding the field's most prominent authority demonstrates authority-independent correction is logically sound: the first antecedent provides the override case and the second establishes Nielsen/NNG's authoritative status."
+    },
+    {
+      "id": "nng-institutional-embodiment-of-field-maturity",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The synthesis that institutionally unifying method (Nielsen) and theory (Norman) embodies field maturity is reasonable, though 'operational viability' as a maturity indicator is an additional claim beyond what the antecedents strictly establish."
+    },
+    {
+      "id": "norman-cognitive-artifacts-ground-design-system-concept",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Design systems encoding cognitive constraints across all interaction dimensions satisfies Norman's cognitive artifact definition (maintaining/operating-upon information for representational functions), making the theoretical grounding claim sound."
+    },
+    {
+      "id": "norman-framework-achieves-dual-meta-validation",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The internal/external validation distinction maps cleanly onto the two antecedents (convergent validity = internal coherence, crisis bookending = external predictive accuracy), though the first antecedent already contains a predictive-success element that partially overlaps with the second."
+    },
+    {
+      "id": "norman-framework-drives-institutional-and-lifecycle-mechanisms",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Sound synthesis: antecedent 1 provides the corrective dimension (institutional self-correction via design systems) and antecedent 2 provides the constructive dimension (unified target + enforcement), both explicitly rooted in Norman's framework."
+    },
+    {
+      "id": "norman-framework-generates-mechanisms-and-architectural-embodiment",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Antecedent 2 uses heavily hedged language ('can be read as', 'suggests', 'would require broader validation') about the dual quality mandate reflecting field self-correction, but the claim drops all hedges and asserts Norman's framework directly 'generates' the architectural embodiment \u2014 collapsing a tentative field-level mapping into a direct causal claim from a single theorist."
+    },
+    {
+      "id": "norman-framework-generates-modality-complete-proactive-architecture",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The claim that a 'single theoretical root' produces comprehensive coverage 'without requiring supplementary frameworks' is unsupported \u2014 design systems' triple-channel enforcement encodes constraints from Fitts's law, Gestalt psychology, and working-memory research, which are independent theoretical traditions, not derivatives of Norman's affordance-signifier framework."
+    },
+    {
+      "id": "norman-framework-validated-at-three-independent-scales",
+      "valid": false,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Antecedent 2 uses hedged language ('consistent with', 'may have degraded', 'suggests') but the claim upgrades this to the signifier evolution 'confirming' the aesthetic-usability thesis, converting a tentative consistency observation into validation \u2014 a significant evidential leap."
+    },
+    {
+      "id": "proactive-architecture-detection-and-prevention-both-modality-complete",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The strong conclusion that 'an interaction-quality gap cannot escape both' does not follow from having independently complete prevention and detection arms \u2014 aligned blind spots across both systems remain logically possible, and neither antecedent establishes that the modalities are complementary in a way that guarantees zero-escape coverage."
+    },
+    {
+      "id": "proactive-architecture-practically-scalable-through-cuped-efficiency",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Valid synthesis: antecedent 1 provides CUPED's variance-reduction making lifecycle measurement feasible within sprints, antecedent 2 provides the proactive architecture context that benefits from this efficiency \u2014 the claim that the detection arm becomes practically scalable follows directly."
+    },
+    {
+      "id": "proactive-quality-architecture-operationally-complete-via-dual-modality-detection",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "'Operationally complete' is a strong closure claim that does not follow from having two detection modalities \u2014 verbal and visual channels could share systematic blind spots (e.g., neither captures issues that manifest only under time pressure or emotional state), and the antecedents establish modality coverage without demonstrating that two modalities exhaust the space of observable failure modes."
+    },
+    {
+      "id": "signifier-crises-preventable-through-dual-sensory-monitoring",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Detection capability plus institutional memory does not entail prevention \u2014 the flat design crisis occurred despite existing usability knowledge, demonstrating that organizational incentives, market pressures, and aesthetic trends can override available detection instruments, none of which the antecedents address."
+    },
+    {
+      "id": "signifier-evolution-empirically-bookended-by-dual-crises",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Antecedent 2 uses heavily hedged language about TMI ('likely informed by', 'likely contributed to', 'suggesting a possible lineage') but the claim treats TMI as an established empirical bookend that 'grounded' and 'proved' the theory \u2014 converting a plausible historical hypothesis into asserted empirical validation."
+    },
+    {
+      "id": "signifier-evolution-validates-aesthetic-usability-at-industry-scale",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Sound synthesis that appropriately preserves hedged language ('consistent with', 'may have', 'suggests'): antecedent 2 provides the aesthetic-usability connection and antecedent 1 provides the institutional codification dimension."
+    },
+    {
+      "id": "spa-complete-quality-architecture-within-dual-mandate",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Antecedent 1 explicitly characterizes SPA's framework as 'partial diagnostic coverage' and a 'partial diagnose-and-treat framework' covering 'some but not all dimensions,' yet the claim upgrades this to a 'complete diagnose-and-treat framework' giving 'the most complete quality coverage' \u2014 directly contradicting its own antecedent."
+    },
+    {
+      "id": "spa-remediation-cognitively-grounded-through-design-systems",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Given its antecedents as premises, the inference is sound \u2014 design systems' cognitive constraints do ground remediation in cognitive causes rather than surface metrics \u2014 though the conclusion inherits antecedent 1's unsupported upgrade from 'partial' to 'complete' framework characterization."
+    },
+    {
+      "id": "structural-and-cognitive-quality-converge-through-navigation",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Antecedent 2 connects navigation to IA's structural subsystem, but neither antecedent explicitly connects design systems to navigation rendering \u2014 the claim that design systems determine HOW navigation elements are rendered for perceptual-motor optimality requires an unstated assumption that design systems govern navigation component rendering specifically."
+    },
+    {
+      "id": "structural-and-cognitive-quality-independently-complete",
+      "valid": true,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The independence and completeness of each subsystem follows from the antecedents, but the added claim that 'together they cover the full quality surface' requires the unstated assumption that structural + cognitive exhausts all quality dimensions \u2014 excluding aesthetic, emotional, temporal, and other potential quality dimensions."
+    },
+    {
+      "id": "structural-cognitive-accessibility-triple-quality-convergence",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The claim says W3C 'ensures accessibility compliance pervades all three dimensions,' but antecedent 2 explicitly warns that design systems implementing WCAG satisfy only one of three guideline layers, with ATAG and UAAG outside design system control \u2014 the claim implies comprehensive pervasion where its own antecedent identifies structural gaps."
+    },
+    {
+      "id": "triple-channel-enforcement-achieves-complete-disability-spectrum-mapping",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Appropriately hedged claim that acknowledges the auditory gap and states coverage is 'not fully supported by the evidence' \u2014 this honest synthesis accurately reflects both antecedents without overstating the mapping."
+    },
+    {
+      "id": "usability-plus-utility-aligns-with-mental-model-gap-targeting",
+      "valid": true,
+      "sufficient": true,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "Appropriately hedged as 'interpretive alignment rather than formally established equivalence' \u2014 the mapping of usability to model alignment and utility to needs validation is a plausible reading explicitly marked as such, not overclaimed as a derivation."
+    },
+    {
+      "id": "w3c-triple-guideline-coverage-operationalizes-full-accessibility-stack",
+      "valid": false,
+      "sufficient": false,
+      "necessary": false,
+      "unnecessary_antecedents": [
+        "design-systems-implement-iso-9241-at-component-level"
+      ],
+      "comment": "Antecedent 2 discusses design systems implementing ISO 9241, not WCAG \u2014 the claim's assertion that 'design systems implementing WCAG at the component level satisfy only one of three guideline layers' introduces a WCAG-design-systems connection not established by either antecedent; the three-layer W3C structure from antecedent 1 alone would suffice if the claim were otherwise supported."
+    },
+    {
+      "id": "wicked-problems-addressed-through-coverage-dimensioned-lifecycle",
+      "valid": false,
+      "sufficient": false,
+      "necessary": true,
+      "unnecessary_antecedents": [],
+      "comment": "The claim asserts that coverage-dimensioned requirements 'feed directly into' dual-engine lifecycle coverage, but neither antecedent establishes that the dimensional format of story mapping output matches or is consumed by the lifecycle's evidence pipeline \u2014 the word 'coverage' appears in both but denotes different things (scope coverage vs. evidence-stage coverage), making this an equivocation rather than a structural alignment."
+    }
+  ]
+}
